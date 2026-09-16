@@ -16,7 +16,7 @@
   position: relative; /* relative parent for absolute child */
   width: 104%;
   min-height: 100vh; /* optional: full screen height */
-  margin-top:73vh;
+  margin-top:85vh;
 }
 
 .pdf-content {
