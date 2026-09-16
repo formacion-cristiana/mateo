@@ -1,0 +1,84 @@
+{
+  "id": "C10",
+  "title": "[IV] MINISTERIOS BAUTISMALES",
+  "date":"10/09/2025",
+  "comment":"Cristo Rey, Sacerdote y Profeta",
+  "questions": [
+     {
+        "type": "matching",
+                   "image": "images/rey-sacerdote-profeta-logos.jpg", 
+        "questionText": "A partir del segundo relato de la creación (Gn 2-3), unir un ministerio con un personaje, su función ministerial y un ejemplo dónde no realiza su función:",
+          "columns": ["Ministerio","Personaje","Función","Ejemplo"],
+        "correctAnswer": [
+          ["Real", "Hombre (creatura de Dios)", "Administrar la creación de Dios","No impidió que se coma lo prohibido."],
+          ["Sacerdotal", "Hombre esposo de la mujer (Adán)","Hablar con Dios","No pidió ayuda a Dios."],
+          ["Profético","Eva","Expresar ante el mal(igno) la palabra de Dios","No defendió la palabra de Dios."]
+        ],
+        "tip":"Gn 2,15 ``\n\nGn 2,20 ``\n\nGn 3,9 `Yavé Dios llamó al hombre y le dijo: '¿Dónde estás?'"
+    },
+         {
+        "type": "matching",
+        "image": "images/rey-sacerdote-profeta-logos.png", 
+        "questionText": "Unir los lugares santos (santuarios), los objetos sagrados (sagrarios), los oficios divinos (ministerios) vinculados a la proclamación, protección y oración:",
+        "columns": ["... de Dios","Proclamación (de la (in)justicia)","Protección (de lo divino)","Oración (con Dios)"],
+        "correctAnswer": [
+          ["Lugar", "País/Nación/Pueblo", "Ciudad (amurallada)","Templo"],
+          ["Objeto", "Ambón","Arca","Altar"],
+          ["Personas","Profeta","Rey","Sacerdote"]
+        ]
+    },
+    {
+        "type": "matching",
+                   "image": "images/rey-sacerdote-profeta-logos.png", 
+        "questionText": "Unir el ministerio con su objeto de administración y un ejemplo de dónde se lo realiza:",
+          "columns": ["Ministerio","Administración de ...","ejemplo"],
+        "correctAnswer": [
+          ["Real", "Guia a su familia y personal hacia la tierra prometida.","Defiende con la espada a su primo."],
+          ["Sacerdotal", "Crea un altar en Siquem, Bethel y Moira. Ofrece a su hijo en sacrificio.","Ruega por los justos de Sodoma."],
+          ["Profético","Le dijo 'SÍ' al plan de Dios para su vida.","Le encomendó a su siervo lo que debía hacer para buscarle una esposa a su hijo."]
+        ]
+    },
+   {
+        "type": "matching",
+                   "image": "images/rey-sacerdote-profeta-logos.png", 
+        "questionText": "Unir el ministerio con su objeto de administración y un ejemplo de dónde se lo realiza:",
+          "columns": ["Ministerio","Administración de ...","ejemplo"],
+        "correctAnswer": [
+          ["real", "bienes (materiales)", "cáritas"],
+          ["sacerdotal", "gracia","sacramentos"],
+          ["profético","palabra","catequesis"]
+        ]
+    },
+    {
+        "type": "matching",
+                   "image": "images/adan-y-eva.webp", 
+        "questionText": "Gn 3:10 : `tuve miedo porque estaba desnudo. Por eso me escondí`\n\nGn 3:22 : `No vaya a ser que ahora extienda su mano, tome también del árbol de la vida, coma y viva para siempre. Entonces expulsó al hombre del jardín.`\n\nRm 5:20 `donde abundó el pecado, sobreabundó la gracia.`\n\nRm 7:20 : `cuando hago lo que no quiero, no soy yo quien lo hace, sino el pecado que reside en mí.`",
+          "columns": ["El pecado introdujo en la vida del hombre", "Categoría de la tentación", "Pecado Capital"],
+        "correctAnswer": [
+          ["muerte", "", "Rm 7:19-20"],
+          ["misericodia", "PLACER","Rm 5:20"],
+          ["pudor", "POSEER","Gn 3:10"],
+          ["sufrimiento","","Gn 3:22"]
+        ]
+    },
+        {
+      "type": "true-false",
+      "questionText": "Después del Bautismo en el Jordán, el DIABLO llevó a Jesús al desierto para ponerlo a prueba. (Mt 4 1)",
+      "correctAnswer": false
+    },
+    {
+    "type": "multiple-choice",
+    "questionText": "¿Con cual pecado capital podemos acusar al Rey de Babilonia a partir de las palabras de Isaías?\n\n`tú que decías en tu corazón: «Subiré a los cielos; por encima de las estrellas de Dios erigiré mi trono. Me sentaré en la montaña de la asamblea divina. en los extremos del norte; escalaré las cimas de las nubes, seré semejante al Altísimo!».` (Is 14:13-14) ",
+    "answerOptions": [
+      { "answerText": "AVARICIA", "isCorrect": false },
+      { "answerText": "ENVIDIA", "isCorrect": false },
+      { "answerText": "GULA", "isCorrect": false },
+      { "answerText": "IRA", "isCorrect": false },
+      { "answerText": "LUJURIA", "isCorrect": false },
+      { "answerText": "PEREZA", "isCorrect": false },
+      { "answerText": "SOBERBIA", "isCorrect": true }
+      ],
+    "tip":""
+    }
+  ]
+}

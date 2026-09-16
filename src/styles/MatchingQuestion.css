@@ -1,0 +1,110 @@
+/* /styles/MatchingQuestion.css */
+
+/* Wrapper allows full-bleed and horizontal scroll */
+.matching-grid-wrapper {
+  width: 100vw;                       /* span full viewport width */
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  overflow-x: auto;                   /* scroll if table wider than viewport */
+  overflow-y: visible;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 1rem;                /* space before submit button */
+}
+
+/* The grid itself */
+.matching-grid {
+  display: inline-grid;                       /* proper grid layout */
+  gap: 0.5rem;
+  grid-auto-rows: minmax(60px, auto);  /* each row at least 60px */
+  min-width: max-content;              /* grow wider than wrapper if needed */
+  grid-template-columns: repeat(var(--match-cols), minmax(160px, max-content));
+}
+
+.word {
+  display: inline;        /* keep them inline so normal spaces work */
+  white-space: normal;    /* allow wrapping at spaces */
+  margin-right: 0.25rem;  /* optional spacing between words */
+}
+
+
+/* Each cell in the grid */
+.matching-cell {
+  display: flex;
+  flex-direction: column;              /* stack content vertically */
+  justify-content: center;             /* center vertically */
+  align-items: center;                 /* center horizontally */
+  padding: 0.25rem;
+  min-height: 60px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;              /* visible cell border */
+  min-width: max(max-content,150px);  
+}
+
+/* Header cells */
+.header {
+  font-weight: bold;
+  background-color: #f0f0f0;
+}
+
+/* Buttons inside cells */
+.matching-btn {
+  width: 100%;
+  height: 100%;
+  display: inline-flex;                /* allow content wrapping */
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;                     /* wrap phrases if too long */
+  padding: 0.25rem;
+  border: none;
+  background-color: white;
+  box-sizing: border-box;
+  white-space: normal;                 /* wrap at spaces */
+  word-break: normal;                  /* do not break inside words */
+  overflow-wrap: break-word;           /* fallback if one word is huge */
+}
+
+/* Highlight selected */
+.matching-btn.selected {
+  outline: 2px solid #3399ff;
+}
+
+/* Images inside buttons */
+.matching-btn img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Submit button wrapper (below table) */
+.submit-wrapper {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.submit-btn {
+  padding: 0.5rem 0.1rem;
+  font-size: 1.1rem;
+  border: none;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.submit-btn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Print adjustments */
+@media print {
+  .matching-grid-wrapper {
+    width: 100%;
+    margin: 0;
+    overflow: visible;
+  }
+  .matching-grid {
+    min-width: 0;
+  }
+}

@@ -1,0 +1,87 @@
+            {
+    "type": "multiple-choice",
+    "questionText": "¿Quienes nacieron en Belén?",
+    "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": true },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": true }
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+  },
+
+  {
+
+    "questionText": "En Mateo 16:24 Jesús nos exhorta seguirlo, perdiendo nuestra vida terrenal para ganar una vida celestial, en cuya entrada habrá un juicio de nuestras obras.habla enigmáticamente sobre la salvación en el y su rol de juez en la parusía. \n\nAsociar a la Creación, Salvación y Juicio de Dios, eventos que le siguen temporalmente:",
+
+    `sean perfectos como es perfecto el Padre que está en el cielo.`\n\nEn Mateo 16:24 Jesús nos exhorta a seguirlo, perdiendo nuestra vida terrenal para ganar una vida celestial -i.e. salvarnos- en cuya entrada será juez de nuestras obras.
+  "id": "C04",
+  "title": "Poder-Placer-Poseer",
+    "date":"/08/2025",
+      "comment":"",
+  "questions": [
+     {
+        "type": "matching",
+          "image": "images/rey-sacerdote-profeta-logos.jpg", 
+        "questionText": "Rm 13:1 `Todos deben someterse a las autoridades constituidas, porque no hay autoridad que no provenga de Dios y las que existen han sido establecidas por él.`\n\nAsociar a cada autoridad una de las Bienaventuranza de Mateo 5:7-12. Considerar estas preguntas como guía:\n\nEn nombre de Dios,\n\n1) ¿quién tiene que trabajar por la paz?\n\n2) ¿quién tiene que enseñar la verdad?\n\n3) ¿quién tiene que perdonar (los pecados)?\n\n ",
+          "columns": ["Autoridad","Dichosos", "Dicha"],
+        "correctAnswer": [
+           ["Político / Gobernante","los trabajadores por la Paz", "ser llamados Hijos de Dios"],
+          ["Educador / Profeta","los perseguidos y calumniados a causa de la Verdad", "tener una recompensa en el Cielo"],
+          ["Religioso / Sacerdote","los misericordiosos","obtener misericordia"]
+        ]
+    },
+            {
+        "type": "matching",
+          "image": "images/tentaciones-de-jesus.jpg", 
+        "questionText": "Vincular los deseos humanos con los mayores dones divinos en la tierra asociados a cada persona de la trinidad ⚜",
+          "columns": ["Deseo humano","Don divino", "Persona divina"],
+        "correctAnswer": [
+          ["La mayor poseción/bien que tenemos es", "El Pan"],
+          ["El mayor poder/fuerza que tenemos es","La Palabra"],
+          ["El mayor placer/gozo que tenemos es","La Paz 🕊"]
+        ]
+    },
+            {
+        "type": "matching",
+          "image": "images/tentaciones-de-jesus.jpg", 
+        "questionText": "Vincular los deseos humanos con los mayores dones divinos asociados a cada persona de la trinidad ⚜",
+          "columns": ["Deseo humano","Don divino", "Persona divina"],
+        "correctAnswer": [
+          ["La mayor poseción/bien que tenemos es", "La Herencia que nos da Dios","Padre"],
+          ["El mayor poder/fuerza que tenemos es","La Cruz ☦ que nos da Dios","Hijo"],
+          ["El mayor placer/gozo que tenemos es","L que nos da Dios","Espíritu"]
+        ]
+    }, {
+    "type": "ordering",
+    "image": "images/señal-de-la-cruz.png", 
+    "questionText": "En los últimos versículos del evangelio de Mateo Jesús dice:\n\nMt 28:19 `Vayan y hagan que todos los pueblos sean mis discípulos, bautizándolos en el nombre del:` ",
+    "correctAnswer": ["Padre", "Hijo", "Espiritu Santo"]
+  },
+    {
+        "type": "matching",
+          "image": "images/tentaciones-de-jesus.jpg", 
+        "questionText": "Asociar a cada persona de la trinidad ⚜ una imagen (evangélica), acción (fundamental) y elemento (identificador)",
+          "columns": ["Persona de la trinidad","Imagen", "Acción", "Elemento"],
+        "correctAnswer": [
+          ["1era","Padre", "Creador ", "Casa 🏠🫂"],
+          ["2da","Hijo", "Salvador","Cruz ☦ 🐑"],
+          ["3era","Espíritu", "Santificador","Paloma 🕊"]
+        ]
+    },
+    {
+        "type": "matching",
+          "image": "images/tentaciones-de-jesus.jpg", 
+        "questionText": "Asociar a cada persona de la trinidad ⚜ una imagen (evangélica), acción (fundamental) y elemento (identificador)",
+          "columns": ["Persona de la trinidad","Imagen", "Acción", "Elemento"],
+        "correctAnswer": [
+          ["Padre","Poder","Perdón", "voluntad", "Casa 🏠🫂"],
+          ["Hijo","Sufrimiento","Capacidad", "Autoridad","Cruz ☦ 🐑"],
+          ["Espíritu","Dones/regalos","Tener", "Bienes","Paloma 🕊"]
+        ]
+    }
+  ]
+}

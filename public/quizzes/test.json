@@ -1,0 +1,48 @@
+🕊❤️‍🔥📖
+
+🫂☀️🔥
+      rey agua limpio/bello imagen
+      profeta aire palabra
+      sacerdote fuego purifica corazón santidad
+
+      moises agua
+      elias fuego
+      jesus soplo
+
+juan: aire palabra 
+
+A él se refería el profeta Isaías cuando dijo: "Una voz grita en el desierto: Preparen el camino del Señor, allanen sus senderos"
+
+\n\nJesús Rey de reyes:\n\nAp 17,14 `Ellos lucharán contra el Cordero, pero el Cordero los vencerá, porque es Señor de los señores y Rey de los reyes. Con él triunfarán también los suyos, los que han sido llamados, los elegidos, los fieles.`
+
+          {
+    "type": "ordering",
+    "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1:17):",
+    "correctAnswer": ["Abraham-Isaac-Jacob", "Saúl-David-Salomón", "Destierro a Babilonia", "José (padre de Jesús)"]
+    },
+        {
+    "type": "ordering",
+    "questionText": "Ordenar temporalmente los temas presentados en Mt 1-4:",
+    "correctAnswer": ["Genealogía 🇮🇱🫅🕍", "Nacimiento ✨🐫🫏", "Bautismo ↪️👑💦", "Tentaciones en el desierto 🥖🌍🐍","Promulgación del Reino ❤️‍🩹📖🕊"]
+    },
+      
+    {
+        "type": "matching",
+        "questionText": "El Ángel del Señor se le apareció en sueños a José en tres ocasiones y le dijo:",
+          "columns": ["Ocasión", "Palabras del Ángel"],
+        "correctAnswer": [
+          ["La concepción virginal", "'José, hijo de David, no temas recibir a María, tu esposa ...'"],
+          ["Al partir los magos", "'Levántate, toma al niño y a su madre, huye a Egipto...'"],
+          ["Al morir el Rey Herodes", "'Levántate, toma al niño y a su madre, y regresa a la tierra de Israel...'"]
+        ]
+      },
+      {
+    "type": "true-false",
+    "questionText": "El evangelio de Juan fue escrito por Juan Bautista",
+    "correctAnswer": false
+  },
+        {
+      "type": "true-false",
+      "questionText": "Al Bautisarse Jesús en el Rio Jordán, es ungido por Dios con el Espíritu Santo. A partir de este momento se lo puede llamar JesuCristo. (Mt 3 17)",
+      "correctAnswer": true
+    }

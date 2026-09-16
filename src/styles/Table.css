@@ -1,0 +1,77 @@
+/* Table.css */
+
+.smarttable-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+.smarttable {
+  display: grid;
+  grid-auto-rows: minmax(60px, auto);
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.smarttable-row {
+  display: grid;
+  grid-template-columns: repeat(var(--smart-cols, 3), minmax(120px, 1fr));
+}
+
+.smarttable-cell {
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 0.5rem;
+  text-align: center;
+  word-break: break-word;
+}
+
+.smarttable-cell:last-child {
+  border-right: none;
+}
+
+.smarttable-row.header .smarttable-cell {
+  font-weight: bold;
+  background: #f0f0f0;
+}
+
+
+.smart-table-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;        /* prevent overflow */
+  overflow-x: auto;        /* scroll only if needed */
+  border: 1px solid #ccc;
+}
+
+/* header row and body rows */
+.smart-table-header,
+.smart-table-row {
+  display: flex;
+  flex-direction: row;     /* force cells into columns */
+  width: 100%;
+}
+
+/* cells */
+.smart-table-header-cell,
+.smart-table-cell {
+  flex: 1 1 0;             /* distribute equally */
+  padding: 2px;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  /* wrapping rules */
+  white-space: normal;     /* allow wrapping at spaces */
+  word-break: break-word;  /* break long words if needed */
+  overflow-wrap: break-word;
+}
+
+.smart-table-header-cell {
+  font-weight: bold;
+  background-color: #f0f0f0;
+  border-bottom: 2px solid #ccc;
+}
+

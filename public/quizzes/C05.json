@@ -1,0 +1,131 @@
+{
+  "id": "C05",
+  "title": "[I] MINISTERIOS BAUTISMALES",
+    "date":"12/08/2025",
+      "comment":"La únción que nos encomienda a servir a Dios como lo hizo Cristo: Rey, Sacerdote y Profeta.",
+  "questions": [          
+    {
+    "type": "ordering",
+    "image": "images/timeline-historia-de-la-humanidad.png", 
+    "questionText": "En Mateo 1,21 el ángel le anuncia a José que su hijo será el Salvador.\n\nEn Mateo 3,10 Juan Bautista anuncia que el que viene detrás de el hará justicia.\n\nEn la carta a los Colosenses 1,16 Pablo dice que en Dios Hijo fueron creadas todas las cosas.\n\nOrdenar temporalmente el camino cristiano de la Humanidad:",
+    "correctAnswer": ["Dios crea: Creación 🗣️🌎 (α)", "Dios salva: Salvación ☦ (τ)","Dios juzga: Parusía ⚖️ (ω)"],
+    "tip":"Gn 1:1 `En el principio Dios creó el cielo y la tierra`\n\nCol 1 16,18 `porque en él fueron creadas todas las cosas, tanto en el cielo como en la tierra * todo fue creado por medio de él y para él. El existe antes que todas las cosas y todo subsiste en él. *El es el Principio, `\n\n---\n\nEl ángel le dice a José: Mt 1,21 `Ella dará a luz un hijo, a quien pondrás el nombre de Jesús, porque él salvará a su Pueblo de todos sus pecados».`\n\nÉl nómbre Jesús viene de JeSHUA, 'SHUA' en hebreo significa 'salvación', Jesús significa 'Dios salva'\n\n---\n\nJuan Bautista anuncia la parusía y juicio final en Mt 3,10 `el árbol que no produce buen fruto será cortado y arrojado al fuego. * El que viene detrás de mi * los bautizará en el Espíritu Santo y en el fuego. Tiene en su mano la horquilla y limpiará su era: recogerá su trigo en el granero y quemará la paja en un fuego inextinguible».`\n\n",
+      "reflect":"¿Qué creás? o ¿dónde sos creativo?\n\n¿con la voz y el lenguaje? (cuentos, canciones, teorías),\n\n¿con las manos y herramientas? (manualidades, música, comidas, máquinas),\n\n¿con objetivos y gente? (e.g. trabajo, equipos, vínculos)\n\n---\n\n¿A quién ayudas?\n\n¿Has 'salvado' a alguien de una emergencia?\n\n---\n\n¿Sos responsable de decirle a alguien si hace las cosas bien o mal? (e.g. en el trabajo o la familia)\n\n¿Cómo corregis los errores -tuyos y de los demás-? (castigando, excluyendo, perdonando)"
+    },
+    {
+    "type": "matching",
+    "image": "images/timeline-historia-de-la-humanidad.png", 
+    "questionText": "Asociar a la Creación, Salvación y Juicio de Dios, un ministerio que lo caracterice, basándose en su función (en nombre de Dios) y objeto de acción",
+    "tip":"",
+    "reflect":"",
+    "columns": ["Hito Cristiano","Ministerio Bautismal","Función Ministerial","Objeto de cuidado"],
+    "correctAnswer": [
+          ["Creación 🌎 (α)","Rey","Administrar", "las riquezas (de la creación)"],
+          ["Salvación ☦ (τ)","Sacerdote","Salvar","las almas (de los hombres)"],
+          ["Juicio Final ⚖️ (ω)","Profeta","Señalar","la ley (de Dios)"]
+        ],
+       "reflect":"¿Te considerás ordenado en la administración de los bienes familiares?\n\n---\n\n¿Has rezado por el alma de un familiar difunto)\n\n---\n\n¿Le has señalado a algún familiar que su conducta va en contra de lo que dice la palabra de Dios?"
+    },
+      {
+        "type": "matching",
+        "questionText": "Unir distintas terminologías referidas a los ministerios bautismales (vagamente asociadas a distintas épocas) y a su función ministerial:",
+            "columns": ["Época Judía", "Edad Media","Actualidad","Función"],
+        "correctAnswer": [
+          ["Profeta","Profesor", "Profesional","(Pro)fesar sobre un tema con autoridad"],
+          ["Sacerdote","Presbítero","Religioso","(Re)ligar el vínculo entre el Hombre y Dios"],
+          ["Rey", "Príncipe","Ministro","(Ad)ministrar los recursos de un pueblo"]
+        ],
+                "tip":"",
+         "reflect":""
+      },
+          {
+        "type": "matching",
+        "questionText": "Unir a cada ministerio con su relación y función divina:",
+            "columns": [ "Ministerio", "Relación con Dios","Función divina","Emoji"],
+        "correctAnswer": [
+          ["Príncipe", "Hijo de ...","construir el Reino de ...","👷‍♂️🛠️"],
+          ["Religioso","Enamorado/amigo de ...","transmitir el amor/amistad de ...","🥰💗"],
+          ["Profeta","Mensajero de ...","expresar la voluntad de ...","👨🏻‍🏫📖"]
+          ],
+        "_comment": "progreso, seguridad y paz",
+        "tip":"Ser hijo de un Rey implica la responsabilidad de -al menos sostener sino también- construir el reino familiar.\n\nSer un enamorado de alguien no se puede ocultar e implica resaltar todo lo bueno de su amado.\n\nSer un mensajero implica llevar con fidelidad un mensaje que no es propio.",
+         "reflect":"¿Sabés que sos Hijo de Dios?\n\n¿Querés construir el Reino de tu familia?\n\n---\n\n¿Sabés que Dios está enamorado de vos?\n\n¿Querés enamorarte de Dios?\n\n---\n\n¿Sabés que Dios quiere hablarte?\n\n¿Querés expresar la palabra de Dios a los demás?"
+      },
+                {
+        "type": "matching",
+        "questionText": "Unir a cada ministerio con su rol en un pueblo, su función defensiva contra el mal y (pro)activa a favor del bien:",
+            "columns": [ "Ministerio","Ciudadano del pueblo", "Función defensiva", "Función activa"],
+        "correctAnswer": [
+          ["Profeta","Profesor","acusar el mal","predicar el bien"],
+          ["Presbítero","Juez","condenar el mal","perdonar el mal"],
+          ["Príncipe", "Jefe","combatir el mal", "obrar el bien"]
+          ],
+        "_comment": "progreso, seguridad y paz",
+        "tip":"Acusación del mal:\n\nMt 3,7 `Al ver que muchos fariseos y saduceos se acercaban a recibir su bautismo, Juan les dijo: «Raza de víboras, ¿quién les enseñó a escapar de la ira de Dios que se acerca? Produzcan el fruto de una sincera conversión, y no se contenten con decir: «Tenemos por padre a Abraham». Porque yo les digo que de estas piedras Dios puede hacer surgir hijos de Abraham. El hacha ya está puesta a la raíz de los árboles: el árbol que no produce buen fruto será cortado y arrojado al fuego.`\n\n---\n\nEn Mateo 16,19 Jesús le da a Pedro el poder de condenar y perdonar, el rol de Juez en la tierra hasta que llegue el juicio final:\n\n`Yo te daré las llaves del Reino de los Cielos. Todo lo que ates en la tierra, quedará atado en el cielo, y todo lo que desates en la tierra, quedará desatado en el cielo».`",
+         "reflect":""
+      },
+          {
+        "type": "matching",
+        "questionText": "Unir a cada poder del sistema democrático argentino con un funcionario, el objeto de su administración y el edificio principal",
+            "columns": [ "Poder","Funcionario", "administración de","Edificio"],
+        "correctAnswer": [
+          ["Legislativo","Legislador","leyes", "Congreso"],
+          ["Judicial","Juez","justicia", "Tribunales"],
+          ["Ejecutivo","Presidente", "recursos","Casa Rosada"]
+          ],
+        "_comment": "progreso, seguridad y paz",
+        "tip":"[Los tres poderes](https://www.casarosada.gob.ar/nuestro-pais/organizacion/los-tres-poderes)\n\n* Poder Ejecutivo: éste poder es desempeñado por un ciudadano con el título de “Presidente de la Nación”. Es el jefe supremo de la Nación, jefe de gobierno y responsable político de la administración general del país.\n\n* Poder Legislativo: A cargo del Congreso de la Nación compuesto por dos cámaras, una de Diputados de la Nación y otra de Senadores. Este poder crea y aprueba las leyes\n\n* Poder Judicial: Corresponde a la Suprema Corte de Justicia de la Nación Argentina y los tribunales inferiores, se encargan de administrar justicia, i.e. interpretar las leyes y asegurar su cumplimiento.",
+         "reflect":"* ¿Te imaginás un país donde no sean necesarias las leyes pués cada ciudadano obra según el bien común?\n\n* ¿Te imaginás un país donde la justicia perdone a todo aquel que se arrepienta?\n\n* ¿Te imaginás un país donde los recursos sean bien administrados?"
+      }
+      ,
+          {
+        "type": "matching",
+        "questionText": "Unir a cada funcionario y objeto de su administración con su función sana y con una consecuencia de su abuso de poder:",
+            "columns": [ "Funcionario","Función sana","Abuso"],
+        "correctAnswer": [
+          ["Legislador (leyes)","defendernos del mal(igno)","quitarnos libertad"],
+          ["Juez (justicia)", "educar al rebelde","vengar al rebelde"],
+          ["Presidente (recursos)","vivir en dignidad","despilfarrar en la abundancia"]
+          ],
+        "_comment": "",
+        "tip":"Si bien la ley nos instruye, no suele ser pedagógica. Aquí el énfasis educativo esta puesto en un proceso de castigo y misericordia que va convirtiendo al rebelde en una persona justa.",
+         "reflect":"* ¿Te has sentido protegido por alguna ley?\n\n* ¿Has sido limitado en tu accionar por alguna ley?\n\n* ¿Has tenido que castigar a alguien?\n\n* ¿Has perdonado un castigo?\n\n* ¿Has sido responsable de administrar bienes comunes?\n\n* ¿Has despilfarrado bienes comunes?"
+      },
+      {
+        "type": "matching",
+        "questionText": "Unir cada adulto de una escuela primaria con su rol/responsabildad en relación al alumno/niño en la escuela:",
+            "columns": ["Adulto", "Función","Objetivo"],
+        "correctAnswer": [
+          ["(Di)Rector","Rectificar", "Marcar la Ley"],
+          ["Padre","Salvar","Abogar/Defender en el juicio"],
+          ["Maestro", "Conducir/Guiar","Progresar en el día a día"]        
+        ],
+        "tip":"",
+         "reflect":"Cuando ibas a la escuela,\n\n* ¿te han llevado a la dirección?\n\n* ¿ha ido alguno de tus padres a abogar por vos ante el maestro?\n\nSiendo adulto,\n\n* ¿Has tenido que caminar durante un tiempo (al menos un año) como guía de alguien, buscando que progrese en algún tema?"
+      },
+          {
+        "type": "matching",
+        "questionText": "En la misa hay tres momentos clave: la mesa de la palabra, la mesa de la eucaristía y el envío final a misionar. Asociar a cada momento un ministerio bautismal, una función característica de cada persona del orden sagrado:",
+            "columns": ["Misa", "Ministerio","Función","Orden Sagrado"],
+        "correctAnswer": [
+          ["Palabra", "Profeta","Enseñar/Señalar", "Diacono 📚"],
+          ["Pan","Sacerdote","Orar/Sacrificar", "Presbítero 🥖 "],
+          ["Envío","Pastor","Conducir/Guiar","Obispo 𓋾"]
+        ],
+        "tip":"Notar que el Diácono es el que lee el evangelio, pero no puede ofrecer el sacrificio eucarístico.\n\nNotar que el Obispo lleva un bastón indicando su rol de Pastor de la Iglesia Diosesana.",
+         "reflect":""
+      },
+      {
+        "type": "matching",
+        "questionText": "Unir a cada sacramento con la habilitación principal y el ministerio bautismal asociado:",
+            "columns": ["Sacramento", "Habilitación a","Ministerio característico"],
+        "correctAnswer": [
+          ["Bautismo", "Recibir La Herencia Divina","Hijo de Dios"],
+          ["Comunión","Comer La Ofrenda Divina","Sacerdote de Dios"],
+          ["Confirmación","Anunciar La Palabra Divina","Profeta de Dios"]        
+        ],
+        "tip":"En el bautismo pasamos de ser creaturas de Dios a ser hijos de Dios; así como en el pasado los Reyes/Príncipes eran considerados Hijos de Dios, i.e. quienes heredan su gracia simplemente por ser Hijos, no por mérito. Así como en la tierra los reinos se heredan por compartir la sangre, el Reino de Dios se hereda por compartir la fe. En este sentido somos Hijos de Abraham porque compartimos la fe en el mismo Dios, no por compartir su sangre.\n\nAl tomar la comunión, ejercemos nuestro ministerio sacerdotal, quien es el encargado de recibir a Dios en su Templo y comer las ofrendas.\n\nAl prepararnos para la confirmación nos instruimos en la Palabra de Dios y en el sacramento recibimos nuevamente al Espíritu de Dios para que nos impulse en la misión.",
+         "reflect":""
+      }
+  ]
+}

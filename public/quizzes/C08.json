@@ -1,0 +1,131 @@
+{
+  "id": "C08",
+  "title": "EL SERMÓN DE LA MONTAÑA\n\n(Mt 5-7)",
+  "date":"31/08/2025",
+  "comment":"Jesús Maestro: escuchar y practicar sus enseñanzas",
+  "questions": [
+    {
+    "type": "ordering",
+    "image": "images/bienaventuranzas.jpg", 
+    "questionText": "NECESIDAD DE PRACTICAR LA PALABRA DE DIOS\n\nEn Mateo 7,24-25 Jesús termina el sermón de la montaña: `Así, todo el que ESCUCHA las palabras que acabo de decir y las pone en PRÁCTICA, puede compararse a un hombre sensato que ...`\n\nOrdenar la parábola:",
+    "correctAnswer": ["edificó su casa sobre ROCA;", "cayeron las lluvias, soplaron los vientos;","sacudieron la casa pero no se derrumbó;", "estaba construida sobre ROCA;"],
+    "tip":"La parábola termina:\n\nMt 7,26-27 `Al contrario, el que escucha mis palabras y no las practica, puede compararse a un homre insensato, que edificó sucasa sobre arena. Cayeron las lluvias, se precipitaron los torrentes, soplaron los vientos y sacudieron la casa: esta se derrumbó, y su ruina fue grande.`",
+    "reflect": "¿Qué enseñanza de Jesús te ha llamado la atención?\n\n¿Has cambiado una forma de pensar u obrar (hábito) debido a una de las enseñanzas de Jesús?"
+    },          
+    {
+    "type": "multiple-choice",
+    "questionText": "En la parábola anterior, La ROCA simboliza:",
+    "image": "images/bienaventuranzas.jpg", 
+      "answerOptions": [
+      { "answerText": "La ofrenda a Dios", "isCorrect": false },
+      { "answerText": "La Palabra de Dios", "isCorrect": true },
+      { "answerText": "La piedra angular que rechazaron los constructores", "isCorrect": false },
+      { "answerText": "El Reino de Dios", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"¿Sabías que en las Iglesisas Católicas hay dos altares? Deberían estar hechos del mismo material, idealmente de ROCA: El altar de la palabra (Ambón) y el de la eucaristía (el Altar).",
+         "reflect":"¿Recordás cuando estudiamos los ministerios bautismales en la ofrenda de Isaac a Dios por parte de Abrahám? (13 Agosto) Decíamos que el sacerdote es quien ofrece la víctima a Dios. Consideramos el simbolismo donde la palabra de Dios es la roca donde se apoya el sacerdote para hacer el sacrificio (i.e. el altar).\n\n`¿En que palabra de Jesús te has apoyado para hacer un sacrificio (algo que no te resulta fácil)?`\n\nSi no lo has hecho, busca alguna de las enseñanzas que siguen que te resulte difícil y llevala a la práctica."
+    },
+    {
+    "type": "multiple-choice",
+    "image": "images/bienaventuranzas.jpg", 
+        "questionText": "LAS BIENAVENTURANZAS (Mt 5,1-12)\n\n¿A quienes les pertenece el Reino de los Cielos?",
+      "answerOptions": [
+      { "answerText": "A los que tienen alma de pobres", "isCorrect": true },
+      { "answerText": "A los pacientes", "isCorrect": false },
+      { "answerText": "A los afligidos", "isCorrect": false },
+      { "answerText": "A los perseguidos por practicar la justicia", "isCorrect": true }
+    ],
+        "tip":"Los que tienen `alma de pobres` les falta algo en el alma. Si se abren a Jesús el les promete bienes, no en este mundo sino en el venidero.\n\nLos `pacientes`, i.e. aquellos que perseveran en las buenas obras, serán recompensados en este mundo ya sea en su vida o en la de sus descendientes. Los afligidos pueden buscar venganza, justicia, o consuelo. Jesús les promete consuelo, en este mundo y en el venidero.\n\nEn el antiguo testamento Dios exhorta al pueblo judío a ser hombres justos. Aquí Jesús nos alienta a no bajar los brazos cuando somos `perseguidos por practicar la justicia` pués recibiremos nuestra recompensa en el mundo venidero.",
+         "reflect":"¿Te consideras alguien con alma de pobre?, e.g. alguien que busca que Jesús lo nutra, incluso con gente con la que sentís rechazo.\n\n¿Buscás obrar con justicia hoy, aquí y ahora?, ¿lo hacés porque sabés que Dios te recompensará en el Reino de los Cielos? ¿O porque te parece que es lo que está bien, sin buscar recompenza?"
+    },
+    {
+     "type": "matching",
+      "image": "images/bienaventuranzas.jpg", 
+      "questionText": "LAS BIENAVENTURANZAS (Mt 5,1-12)\n\nUnir los dichosos con la dicha:",
+      "columns": ["Dichosos los ...","porque ..."],
+      "correctAnswer": [
+        ["afligidos","serán consolados"],
+        ["que tienen hambre y sed de justicia","serán saciados"],
+        ["misericordiosos","obtendrán misericordia"] ,
+        ["que tienen un corazón puro","verán a Dios"]
+      ],
+      "_comment": "",
+      "tip":"Hay dolores tan grande que el hombre no puede consolar. Esto lo vimos en la profecía de la matanza a los inocentes en Mt 2,18 `En Ramá se oyó una voz, hubo lágrimas y gemidos: es Raquel, que llora a sus hijos y no quiere que la consuelen, poque ya no existen.` En este [link](https://press.vatican.va/content/salastampa/es/bollettino/pubblico/2017/01/04/raquel.html) el papa Francisco analiza sutilmente esta profecía, enseñandonos como acompañar cuando las palabras no alcanzan. Solo Jesús nos promete consuelo.\n\n---\n\nJesús es el gran Juez, solo en el podemos descanzar cuando sufrimos una injusticia.\n\n---\n\n¿Qué parte de la oración de Padre Nuestro podés vincular a una de estas bienaventuranzas?",
+       "reflect":"Cuando te afligís, ¿qué o quién te consuela?\n\nCuando sufrís una injusticia, ¿cómo descargás tu bronca?\n\n¿Sos capaz de pasar por tu corazón la miseria de aquel que te hizo daño?\n\n¿Le deseas el mal a alguien? capaz que maldiciendolo con palabras cuando te hacen un mal (e.g. un conductor que casi te choca)"
+    },
+    {
+      "type": "true-false",
+      "image": "images/bienaventuranzas.jpg", 
+      "questionText": "LA SAL y LA LUZ (Mt 5,13-16)\n\nJesús dijo: `Ustedes son la sal de la mar y la luz de la tierra.`",
+      "correctAnswer": false,
+      "_comment": "",
+      "tip":"",
+       "reflect":""
+    },
+    {
+      "type": "matching",
+      "image": "images/bienaventuranzas.jpg", 
+      "questionText": "JESÚS Y LA LEY (Mt 5,17-20)\n\n",
+      "columns": ["Les aseguro que ","EL Reino de los Cielos"],
+      "correctAnswer": [
+        ["El que no cumpla el más pequeño de estos mandamientos, y enseñe a los otros a hacer lo mismo","será considerado el menor en ..."],
+        ["El que cumpla estos mandamientos y los enseñe","será considerado grande en ..."],
+        ["Si la justicia de ustedes no es superior a la de los escribas y fariseos","no entrarán en ..."]   
+      ],
+      "_comment": "",
+      "tip":"",
+       "reflect":""
+    },
+    {
+      "type": "matching",
+      "image": "images/bienaventuranzas.jpg", 
+      "questionText": "EL HOMICIDO - EL ADULTERIO - EL JURAMENTO (Mt 5,21-37)\n\nJesús nos invita no solo a practicar la justicia sino ir más allá y practicar la santidad. Formar los consejos de Jesús que están divididos en tres partes:",
+      "columns": ["Ustedes han oido que se dijo ...","Pero yo les digo ...","Por lo tanto ..."],
+      "correctAnswer": [
+        ["No matarás","el que se irrita contra su hermano será condenado","antes de presentar tu ofrenda ante el altar ve a reconciliarte con tu hermano"],
+        ["No cometerás adulterio","el que mira a una mujer deseándola, ya pecó","si tu ojo derecho es ocación de pecado, arráncalo"],
+        ["No jurarás falsamente","no juren de ningún modo","cuando digan 'si', que sea si"]
+      ],
+      "_comment": "",
+      "tip":"",
+       "reflect":""
+    },
+          {
+      "type": "matching",
+      "image": "images/bienaventuranzas.jpg", 
+      "questionText": "LA LEY DEL TALIÓN y EL AMOR A LOS ENEMIGOS (Mt 5,38-48)\n\nJesús nos invita no solo a practicar la justicia sino ir más allá y practicar la santidad (ser perfectos). Formar los consejos de Jesús que están divididos en tres partes:",
+      "columns": ["Ustedes han oido ...","Pero yo les digo ...","Sean perfectos ..."],
+      "correctAnswer": [
+        ["Ojo por ojo y diente por diente","ESQUIVEN al que les hace el mal","DA al que te pide"],
+        ["Amarás a tu prójimo y odiarás a tu enemigo","AMEN a sus enemigos","RUEGUEN por sus perseguidores"]   
+      ],
+      "_comment": "",
+      "tip":"",
+       "reflect":""
+    },
+    {
+      "type": "matching",
+      "image": "images/cuaresma.png",
+      "questionText": "LA LIMOSNA, LA ORACIÓN y EL AYUNO (Mt 6,1-18)\n\nJesús nos invita a buscar la mirada de Dios omnipresente. Formar los consejos de Jesús que están divididos en tres partes:",
+      "columns": ["Cuando ...","No hagas como los hipócritas que ...","Tu Padre que ve en lo secreto te recompensará si ..."],
+      "correctAnswer": [
+        ["des LIMOSNA","lo anuncian a toque de trompetas","tu mano izquierda ignora lo que hace la derecha"],
+        ["OREN","les gusta ser vistos","te retiras a tu habitación y cierras la puerta"],
+        ["AYUNEN","desfiguran su rostro","perfumas tu cabeza y lavas tu rostro"]   
+      ],
+      "_comment": "",
+      "tip":"",
+       "reflect":""
+    },
+    {
+      "type": "true-false",
+      "image": "images/bienaventuranzas.jpg", 
+      "questionText": "EL PADRENUESTRO (Mt 6,9-14)\n\nEl padre perdonará nuestras faltas incondicionalmente.",
+      "correctAnswer": false,
+      "_comment": "",
+      "tip":"Mt 9,14 `Si perdonan sus faltas a los demás, el Padre que está en el cielo también los perdonará a ustedes Pero ...",
+       "reflect":"¿Te considerás rencoroso?\n\n¿Hay algo que quisieras perdonar y no podés? De ser así, contáselo a Jesús, el puede ayudarte. Es importante perdonar.\n\nSi uno no puede perdonar, puede descanzar en el sacramento de la reconciliación, donde arrepentido de no poder hacerlo igual recibo el perdón de mis pecados."
+    }
+    ]
+ }

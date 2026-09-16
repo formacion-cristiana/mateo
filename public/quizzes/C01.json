@@ -1,0 +1,109 @@
+{
+  "id": "C01",
+  "title": "Genealogía - Nacimiento - Bautismo\n\n(Mt 1-3)",
+  "date":"27/07/2025",
+  "comment":"La preparación para el anuncio del Reino.", 
+  "questions": [
+  {
+    "type": "ordering",
+    "questionText": "Ordenar temporalmente los primeros patriarcas (Mt 1,2):",
+    "correctAnswer": ["Abraham", "Isaac", "Jacob (Israel)"],
+    "tip": "Mt 1,2 `Abraham fue padre de Isaac; Isaac, padre de Jacob; Jacob, padre de Judá y de sus hermanos.\n\nA partír de Pentecostés (nacimiento de la Iglesia), los hijos de Abraham ya no se transmiten por la  carne sino por el Espíritu Santo.`",
+    "reflect": "* ¿Recordás los nombres de tus bisabuelos?\n* ¿Que sabés de ellos?\n* Hablá o preguntá sobre ellos."
+  },
+  {
+    "type": "ordering",
+    "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1,17):",
+    "correctAnswer": ["Abraham (padre de Isaac)", "David (padre de Salomón)", "Destierro a Babilonia", "José ('padre' de Jesús)"],
+    "tip":"Mt 1,17 `El total de las generaciones es, por lo tanto: desde Abraham hasta David, catorce generaciones; desde David hasta el destierro en Babilonia, catorce generaciones; desde el destierro en Babilonia hasta Cristo, catorce generaciones.`",
+    "reflect": "* En tu familia, ¿Acerca de cuantas generaciones te han contado?\n* Hablá o preguntá sobre tus antepasados."
+  },
+  {
+    "type": "multiple-choice",
+    "questionText": "Abraham es nuestro padre en la ...",
+    "answerOptions": [
+      { "answerText": "Fe", "isCorrect": true },
+      { "answerText": "Fortaleza", "isCorrect": false },
+      { "answerText": "Sabiduría", "isCorrect": false },
+      { "answerText": "Salvación", "isCorrect": false },
+      { "answerText": "Piedad", "isCorrect": false }
+    ],
+    "tip":"Gn 22,1 `Dios puso a prueba a Abraham. Le dijo: Toma a tu hijo, a tu único, al que amas* ve a la región de Moria y ofrécelo allí en holocausto'.`\n",
+    "reflect":"Como prueba de su fe, Dios le pide a Abraham lo más dificil que alguién puede pensar. Este hecho nos predispone a profundizar en el misterio pascual, donde Dios sacrifica a su único hijo en pos de la humanidad.\n* ¿Quién te ha transmitido tu fé?\n* ¿Has tenido que probar tu fe?"
+  },
+  {
+    "type": "multiple-choice",
+    "questionText": "David fue ...",
+    "answerOptions": [
+      { "answerText": "Pastor", "isCorrect": true },
+      { "answerText": "Príncipe", "isCorrect": false },
+      { "answerText": "Profeta", "isCorrect": false },
+      { "answerText": "Rey", "isCorrect": true },
+      { "answerText": "Sacerdote", "isCorrect": false },
+      { "answerText": "Salmista", "isCorrect": true }
+    ],
+            "_comment": "",
+        "tip":"Pastor de ovejas.\n\nPríncipe: Hijo de un Rey.\n\nRey: Úngido para gobernar en nombre de Dios como hijo suyo.\n\nSacerdote: encargado de ofrecer sacrificios y oraciones a Dios para la salvación de los demás.\n\nProfeta: Mensajero de la palabra y voluntad de Dios.\n\nSalmista: Escritor/Cantor de salmos/oraciones dedicadas a Dios y registradas en el libro de los Salmos de la Biblia.",
+         "reflect":"* ¿Has tenido que arrear un rebaño (de animales, de niños, de personas)?, i.e. ser responsable de llevar un grupo de un origen a un destino\n\n* ¿Le has escrito una oración/canción a Dios?"
+  },
+  {
+    "type": "ordering",
+    "questionText": "Ordenar temporalmente los acontecimientos posteriores al nacimiento de Jesús (Mt 2):",
+    "items": ["La visita de los magos", "La matanza de los inocentes", "El exilio a Egipto", "El regreso de Egipto"],
+    "correctAnswer": ["La visita de los magos", "El exilio a Egipto", "La matanza de los inocentes", "El regreso de Egipto"],
+    "tip":"Mt 2 `Cuando nació Jesús, en Belén de Judea, bajo el reinado de Herodes, unos magos de Oriente se presentaron en Jerusalén y preguntaron: «¿Dónde está el rey de los judíos que acaba de nacer?...Herodes ... los envió a Belén... (Allí) encontraron al niño con María, su madre, y postrándose, le rindieron homenaje... Y como recibieron en sueños la advertencia de no regresar al palacio de Herodes, volvieron a su tierra por otro camino.`",
+    "reflect":""
+  },
+      {
+        "type": "matching",
+        "questionText": "El Ángel del Señor se le apareció en sueños a José en tres ocasiones (Mt 1-2). Unir la ocación con las palabras del Angel:",
+          "columns": ["Ocasión", "Palabras del Angel"],
+        "correctAnswer": [
+          ["La concepción virginal", "'José, hijo de David, no temas recibir a María, tu esposa ...'"],
+          ["Al partir los magos", "'Levántate, toma al niño y a su madre, huye a Egipto...'"],
+          ["Al morir el Rey Herodes", "'Levántate, toma al niño y a su madre, y regresa a la tierra de Israel...'"]
+        ]
+      },
+    {
+    "type": "multiple-choice",
+    "questionText": "En Mateo 3,2 Juan Bautista plocama:\n\n `\"_________ porque el Reino de los Cielos está cerca.\"`",
+    "answerOptions": [
+      { "answerText": "Conviértanse", "isCorrect": true },
+      { "answerText": "Límpiense", "isCorrect": false },
+      { "answerText": "Purifíquense", "isCorrect": false },
+      { "answerText": "Santifíquense", "isCorrect": false }
+    ],
+    "tip":"Después de 30 años del nacimiento de Jesús -en casi absoluto silencio sobre el Mesías- Juán comienza a anunciar su Reino.\n\nMt 3,1-2 `En aquel tiempo se presentó Juan el Bautista, proclamando en el desierto de Judea: «______, porque el Reino de los Cielos está cerca».`\n\nEstas mismas palabras dirá Jesús al comenzar su predicación (Mt 4,17).",
+    "reflect":"* ¿Quién te ha anunciado el Reino de los Cielos?\n\n* ¿Anunciás el Reino de los Cielos?"
+  },
+  {
+    "type": "true-false",
+    "questionText": "El único profeta Judío que conoció personalmente a Jesús fue Juan Bautista",
+    "correctAnswer": true,
+    "tip":"Moisés fue el primer profeta Judío, Juan fue el último.\n\n¿Recordás de quién estaba embarazada Isabel cuando María la va a visitar? (Lc 1,39)"
+  },
+  {
+    "type": "multiple-choice",
+    "questionText": "En Mateo 3,11 Juan Bautista le cuenta a los fariseos y saduceos que el que viene detrás de el los bautizará con:",
+    "answerOptions": [
+      { "answerText": "el agua", "isCorrect": false },
+      { "answerText": "el Espíritu Santo", "isCorrect": true },
+      { "answerText": "el fuego", "isCorrect": true },
+      { "answerText": "el soplo", "isCorrect": false},
+      { "answerText": "la luz", "isCorrect": false }
+    ],
+    "tip":"Mt 3,10`Yo los bautizo con agua para que se conviertan; pero aquel que viene detrás de mí es más poderoso que yo, y yo ni siquiera soy digno de quitarle las sandalias. El los bautizará en el ______ y en el ______.`"
+  }, 
+   {
+    "type": "multiple-choice",
+    "questionText": "Mateo 3,16 cuenta que apenas fue bautizado, Jesús vio al Espíritu de Dios dirigirse hacia el, descendiendo como:",
+    "answerOptions": [
+      { "answerText": "una luz", "isCorrect": false },
+      { "answerText": "una lluvia", "isCorrect": false },
+      { "answerText": "una lengua de fuego", "isCorrect": false },
+      { "answerText": "una paloma", "isCorrect": true },
+      { "answerText": "un soplo", "isCorrect": false }
+    ]
+  }
+  ]
+}

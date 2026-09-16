@@ -1,0 +1,151 @@
+{
+  "id": "C07",
+  "title": "[III] MINISTERIOS BAUTISMALES\n\n(Mt 1-4)",
+    "date":"30/08/2025",
+      "comment":"Profecías sobre Cristo Rey, Sacerdote y Profeta",
+  "questions": [
+    {
+    "type": "multiple-choice",
+    "questionText": "¿Cuántas profecías se cumplen en Mt 1-3?",
+    "answerOptions": [
+      { "answerText": "1", "isCorrect": false },
+      { "answerText": "3", "isCorrect": false },
+      { "answerText": "6", "isCorrect": true },
+      { "answerText": "10", "isCorrect": false }
+    ],        
+    "_comment": "",
+    "tip":"A lo largo de su vida, Jesús cumple más de 300 profecías. Dios es fiel a su palabra y nos llama a comprometernos con la nuestra:\n\nMt 5,37 `Cuando ustedes digan «sí», que sea sí, y cuando digan «no», que sea no. Todo lo que se dice de más, viene del Maligno.`",
+    "reflect":"* ¿Sos fiel a tu palabra?\n\n* ¿Descansás en la palabra de Dios?"
+  },
+  {
+    "type": "multiple-choice",
+    "image": "images/rey-sacerdote-profeta-logos.jpg", 
+    "questionText": "LA CONCEPCIÓN VIRGINAL Y EL NACIMIENTO DE JESÚS:\n\nMt 1,23 `La Virgen concebirá y dará a luz un hijo a quien pondrán el nombre de Emanuel.`\n\n¿Sobre quién habla el profeta?",
+    "answerOptions": [
+      { "answerText": "Un Rey: alguien que porta la sangre de Dios.", "isCorrect": true },
+      { "answerText": "Un Sacerdote: alguien que le presenta su corazón a Dios.", "isCorrect": false },
+      { "answerText": "Un Profeta: alguien que expresa la voluntad de Dios.", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"Emanuel traducido significa `Dios con nosotros`, por lo que el profeta habla sobre un niño que portará algo divino. En este caso, entendemos que habla sobre un rey, pués los reyes de Dios portan sangre divina.",
+         "reflect":"¿Te considerás alguien con sangre divina?"
+  },
+  {
+    "type": "multiple-choice",
+    "image": "images/rey-sacerdote-profeta-logos.jpg", 
+    "questionText": "LA VISITA DE LOS MAGOS\n\nMt 2,6 `Y tu Belén, tierra de Judá, ciertamente no eres la menor entre las principales ciudades de Judá, porque de ti surgirá un jefe que será el Pastor de mi pueblo, Israel.`\n\n¿Sobre quién habla el profeta?",
+    "answerOptions": [
+      { "answerText": "Un Rey: alguien responsable de guiar a un pueblo.", "isCorrect": true },
+      { "answerText": "Un Sacerdote: alguien responsable de orar por un pueblo.", "isCorrect": false },
+      { "answerText": "Un Profeta: alguien responsable de señalar la ley a un pueblo.", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"El profeta habla sobre un Jefe/Pastor, i.e. alguién que será el responsable de guiar los pasos del pueblo de Dios (al igual que un pastor con sus ovejas).",
+         "reflect":"¿Sos responsable de guiar los pasos de un grupo de personas?\n\n¿Te ha pesado esa responsabilidad?"
+  },
+  {
+    "type": "multiple-choice",
+    "image": "images/rey-sacerdote-profeta-logos.jpg", 
+    "questionText": "EL EXILIO DE JESÚS EN EGIPTO\n\nMt 2,15 `Desde Egipto llamé a mi hijo.`\n\n¿Sobre quién habla el profeta?",
+    "answerOptions": [
+      { "answerText": "Un Rey: un 'hijo' de Dios.", "isCorrect": true },
+      { "answerText": "Un Sacerdote: un amigo de Dios.", "isCorrect": false },
+      { "answerText": "Un Profeta: un mensajero de Dios.", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":"¿Has tenido que escapar de un lugar 'tuyo/propio'? ¿Te pareció injusto?\n\n¿Te resulta normal pensar que Dios encarnado tenga que estar escapando en lugar de enfrentar a quienes lo persiguen?"
+  },
+  {
+    "type": "multiple-choice",
+    "image": "images/rey-sacerdote-profeta-logos.jpg", 
+    "questionText": "LA MATANZA DE LOS INOCENTES.\n\nMt 2,18 `En Ramá se oyó una voz, hubo lágrimas y gemidos: es Raquel, que llora a sus hijos y no quiere que la consuelen, poque ya no existen.`\n\n¿Sobre quién habla el profeta?",
+    "answerOptions": [
+      { "answerText": "Un Rey: alguien que porta la sangre de Dios.", "isCorrect": false },
+      { "answerText": "Un Sacerdote: alguien que le presenta su corazón a Dios.", "isCorrect": true },
+      { "answerText": "Un Profeta: alguien que expresa la voluntad de Dios.", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"(Jer 31,15) Raquel, esposa predilecta de Jacob, madre de José y Benjamín, ya fallecida llora el destierro de sus hijos y nietos. Por más que no busca consuelo, en los versículos siguientes Dios se lo da.\n\nPodés leer la catequesis del papa Francisco sobre esta profecía: [link](https://press.vatican.va/content/salastampa/es/bollettino/pubblico/2017/01/04/raquel.html)",
+         "reflect":"¿Has sufrido un duelo en donde no hay palabras, solo lágrimas? Si vuelve a suceder, ejercé tu ministerio sacerdotal presentándole tu corazón a Dios."
+  },
+  {
+    "type": "multiple-choice",
+    "image": "images/rey-sacerdote-profeta-logos.jpg", 
+    "questionText": "EL REGRESO DE EGIPTO\n\nMt 2,23 `Será llamado Nazareno.`\n\n¿Sobre quién habla el profeta?",
+    "answerOptions": [
+      { "answerText": "Un Rey: la máxima autoridad en una tierra/pueblo/familia.", "isCorrect": false },
+      { "answerText": "Un Sacerdote: la máxima autoridad en una religión/iglesia.", "isCorrect": false },
+      { "answerText": "Un Profeta: un don nadie cuya autoridad no viene por su título sino por la palabra de Dios que expresa.", "isCorrect": true }
+    ],
+        "_comment": "",
+        "tip":"Nazareth era un pueblo sin importancia, en contraste con una ciudad como Jerusalem. Esto se aclara en el evangelio de Juan 1,45-46: `Felipe encontró a Natanael y le dijo: 'Hemos encontrado a aquel de quien se habla en la Ley de Moisés y en los Profetas. Es Jesús, el hijo de José de Nazaret'. Natanael le preguntó: '¿Acaso puede salir algo bueno de Nazaret?'.",
+         "reflect":"¿Has sido prejuicioso con alguien que luego resultó traerte una palabra importante/útil/iluminadora?"
+  },
+  {
+    "type": "multiple-choice",
+    "image": "images/rey-sacerdote-profeta-logos.jpg", 
+    "questionText": "LA PREDICACIÓN DE JUAN EL BAUTISTA\n\nMt 3,3 `Una voz grita en el desierto: Preparen el camino del Señor, allanen sus senderos.`\n\n¿Sobre quién habla el profeta?",
+    "answerOptions": [
+      { "answerText": "Un Rey: la máxima autoridad en una tierra/pueblo/familia.", "isCorrect": false },
+      { "answerText": "Un Sacerdote: la máxima autoridad en una religión/iglesia.", "isCorrect": false },
+      { "answerText": "Un Profeta: un don nadie cuya autoridad no viene por su título sino por la verdad que expresa.", "isCorrect": true }
+    ],
+        "_comment": "",
+        "tip":"Una voz sola, en medio de 'la nada' (sin caravanas que lo destaquen ni historia que lo adorne) grita la palabra de Dios.",
+         "reflect":"¿Has tenido que hablar sobre un tema en soledad?, i.e. defender/presentar una postura en contra/en medio de un grupo que presenta cierto rechazo a tus palabras"
+  },
+  {
+    "type": "multiple-choice",
+    "image": "images/rey-sacerdote-profeta-logos.jpg", 
+    "questionText": "EL BAUTISMO DE JESÚS\n\nMt 3,17 `Este es mi Hijo muy querido, en quien tengo puesta toda mi predilección.`\n\n¿Sobre quién habla la voz del cielo?",
+    "answerOptions": [
+      { "answerText": "Un Rey: un 'hijo' de Dios.", "isCorrect": true },
+      { "answerText": "Un Sacerdote: un amigo de Dios.", "isCorrect": false },
+      { "answerText": "Un Profeta: un mensajero de Dios.", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":"¿Tenés algún hijo/alumno/pariente predilecto?\n\n---\n\n¿Te podés imaginar que Dios te dice estas palabras cuando tomás el sacramento de la Confirmación?\n\n¿Que te genera?"
+  },
+  {
+    "type": "multiple-choice",
+    "image": "images/rey-sacerdote-profeta-logos.jpg", 
+    "questionText": "LAS TENTACIONES DE JESÚS EN EL DESIERTO\n\nMt 4,4 `El hombre no vive solamente de pan, sino de toda palabra que sale de la boca de Dios.`\n\n¿Sobre la función de quién habla el profeta?",
+    "answerOptions": [
+      { "answerText": "De un Rey: encargado de satisfacer las necesidades de ser provistos materialmente por Dios.", "isCorrect": false },
+      { "answerText": "De un Sacerdote: encargado satisfacer las necesidades de ser consolados anímicamente por Dios.", "isCorrect": false },
+      { "answerText": "De un Profeta: encargado de satisfacer las necesidades de escuchar La Palabra de Dios.", "isCorrect": true }
+    ],
+        "_comment": "",
+        "tip":"La Palabra de Dios trae tantas cosas a nuestra vida: sentido, moral, ánimo, motivación. Todo Hombre espiritual, conciente o no, tiene necesidad de escuchar La Palabra de Dios.",
+         "reflect":"¿Que palabra de Dios te a tocado medularmente?\n\nPodés escribir un versículo de la Biblia y pegarlo/colgarlo en algún lado de tu casa."
+  },
+  {
+    "type": "multiple-choice",
+    "image": "images/rey-sacerdote-profeta-logos.jpg", 
+    "questionText": "LAS TENTACIONES DE JESÚS EN EL DESIERTO\n\nMt 4,6 `Dios dará ordenes a sus ángeles, y ellos te llevarán en sus manos para que tu pie no tropiece con ninguna piedra.`\n\n¿A quién le habla el profeta?",
+    "answerOptions": [
+      { "answerText": "A un Rey: alguien que por ser de sangre divina tiene custodia especial.", "isCorrect": true },
+      { "answerText": "A un Sacerdote: alguien que por presentarle su corazón a Dios recibe su consuelo y alegría.", "isCorrect": false },
+      { "answerText": "A un Profeta: alguien que por expresar la voluntad de Dios sufre tribulaciones.", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"¿Sabías que el 29 de septiembre la Iglesia celebra los ángeles custodios?",
+         "reflect":"¿Te sentís protegido por Dios?\n\n¿Tenés alguna experiencia donde te salvaste 'por casualidad'?"
+  },
+  {
+    "type": "multiple-choice",
+    "image": "images/rey-sacerdote-profeta-logos.jpg", 
+    "questionText": "LAS TENTACIONES DE JESÚS EN EL DESIERTO\n\nMt 4,10 `Adorarás al Señor, tu dios, y a él solo rendirás culto.`\n\n¿A quién le habla el profeta?",
+    "answerOptions": [
+      { "answerText": "A un Rey: alguien que por ser hijo de Dios tiene privilegios.", "isCorrect": false },
+      { "answerText": "A un Sacerdote: alguien que por ser un enamorado de Dios le entrega su corazón.", "isCorrect": true },
+      { "answerText": "A un Profeta: alguien que por ser un mensajero de Dios tiene que expresar verdades incómodas.", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"¿Sabías que tenemos un Dios celoso?, quiere que rindamos culto solo a El. A través de El podrémos amar a los demás como Dios nos ama.\n\nLc 14,25 `Cualquiera que venga a mí y no me ame más que a su padre y a su madre, a su mujer y a sus hijo, no puede ser mi discípulo.`",
+         "reflect":"¿Te has enamorado? esa sensación donde ves todo lo bueno de una persona y sentís una fuerte atracción"
+  }
+  ]
+}

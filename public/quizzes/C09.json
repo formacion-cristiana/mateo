@@ -1,0 +1,131 @@
+{
+  "id": "C09",
+  "title": "EL PECADO ORIGINAL\n\n(Gn 3)",
+  "date":"10/09/2025",
+  "comment":"La maldición que devino en gracia",
+  "questions": [
+   {
+        "type": "matching",
+       "image": "images/adan-y-eva.webp", 
+        "questionText": "Unir los nombres con su etimología hebrea y su significado bíblico:\n\n",
+            "columns": ["Nombre", "Etimología", "Significado"],
+        "correctAnswer": [
+          ["Edén","ēden := delicia","lugar paradisíaco"],
+          ["Adán","adamah := tierra/suelo","Hombre/Humano"],
+          ["Eva","hava := vida","madre de los vivientes"],
+          ["Babilonia","babel := confusión","ciudad de la confusión"],
+          ["Satanás","shatan := opositor, adversario","el que se opone/enfrenta a Dios"]
+        ],
+        "tip":"Gn 2,8-9 `El Señor Dios plantó un jardín en Edén ... hizo brotar del suelo toda clase de árboles, que eran atrayentes para la vista y apetitosos para comer;`\n\nGn 2,17 Dios dijo: `el día que comas de él, morirás`. Gn 3,4 `La serpiente replicó: 'De ninguna manera morirán...'`\n\nGn 3,19 `Ganarás el pan con el sudor de tu frente, hasta que vuelvas a la tierra, de donde fuiste sacado. ¡Porque eres polvo y al polvo volverás!`\n\nGn 3,20 `El hombre dio a su mujer el nombre de Eva, por ser ella la madre de todos los vivientes`\n\nGn 11,9 `Por eso se llamó Babel allí, en efecto, el Señor confundió la lengua de los hombres y los dispersó por toda la tierra.`",
+        "reflect":"¿Sabías que los hebreos le han dado mucha importancia al significado de los nombres?\n\n¿Has nombrado algo? ¿En que te has basado?"
+      },
+      {
+      "type": "true-false",
+     "image": "images/adan-y-eva.webp", 
+      "questionText": "El fruto del arbol del conocimiento del bien y del mal era el único fruto en el Edén, atrayente para la vista y apetitoso para comer.",
+      "correctAnswer": false,
+      "tip":"Gn 2,8-9 `El Señor Dios plantó un jardín en Edén ... hizo brotar del suelo toda clase de árboles, que eran atrayentes para la vista y apetitosos para comer;`",
+      "reflect":"¿Te ha sucedido que entre varias opciones te dan ganas de elegir la prohibida?\n\nEsta bueno recordar las palabras de San Pablo (Rm 7:20) `cuando hago lo que no quiero, no soy yo quien lo hace, sino el pecado que reside en mí.`"
+    },
+          {
+        "type": "matching",
+       "image": "images/adan-y-eva.webp", 
+        "questionText": "🐍  Gn 3:4-6 `La serpiente dijo a la mujer: «No, no morirán. Dios sabe muy bien que cuando ustedes coman de ese árbol, se les abrirán los ojos y serán como dioses, conocedores del bien y del mal». Cuando la mujer vio que el árbol era apetitoso para comer, agradable a la vista y deseable para adquirir conocimiento, tomó de su fruto y comió.`\n\nAsociar a cada tentación una categoría y un pecado capital:",
+          "columns": ["Primeras tentaciones", "Categoría de la tentación", "Pecado Capital"],
+        "correctAnswer": [
+          ["👑 serán como dioses", "PODER ", "SOBERBIA"],
+          ["🍎 apetitoso y agradable", "PLACER","GULA"],
+          ["📚 adquirir conocimiento", "POSEER","AVARICIA"]
+        ],
+        "tip":"La SOBERBIA es el pecado capital a partir del cual la identidad individual se sobrevalora resultando en egoismo y orgullo egoico. En este caso las obras individuales buscan la propia voluntad y favorecer el bien propio sin considerar el bien del prójimo. Para poder ejercer la propia voluntad, la búsqueda de poder pasa a ser prioridad.\n\nPro 16,5.18 `Yavé odia el corazón altanero, que seguramente no quedará sin castigo...Antes de la ruina hubo orgullo; antes de la caida, espíritu altanero.`\n\nLa GULA es el pecado capital a partir del cual la búsqueda del bienestar (placer) que uno encuentra al satisfacer las necesidades naturales de nuestro cuerpo nos aleja de un estado de salud. Por otro lado suele dificultar la consideración de las necesidad básicas del prójimo.\n\nPro 23,2.20 `clava un cuchillo en tu garganta, si tienes mucho apetito... No te juntes con los borrachos ni con los que se hartan de carne, porque el borracho y el glotón se empobrecen, y la modorra hace andar vestido con harapos.`\n\nPensar al conocimiento como un objeto (o poseción), i.e. algo que se puede adquirir.\n\nPro 16,16 `Más vale adquirir la sabiduría que el oro`.",
+        "reflect":"`PODER`\n¿El poder de cual super-heroe te gustaría tener? (hoy o cuando eras chico) ¿Has usado una capacidad tuya para humillar o dejar mal parado a alguien?\n\n`PLACER`\n¿Cual es tu comida favorita? ¿Hay alguna comida que te hace mal y la comés igual?\n\n`POSEER`\n¿Qué conocimiento tenés que para vos es tan valioso que te gustaría dejarselo en herencia a tus hijos? ¿Hay algún conocimiento que no quisieras compartir?"
+    },
+              {
+        "type": "matching",
+         "image": "images/adan-y-eva.webp", 
+        "questionText": "Asociar a cada personaje del capítulo 3 y 4 del Génesis su pecado y un pecado capital:",
+          "columns": ["Personaje", "Pecado", "Pecado Capital"],
+        "correctAnswer": [
+          ["Adán", "IRRESPONSABILIDAD", "PEREZA"],
+          ["Caín", "CELOS","ENVIDIA"],
+          ["Lamec","VENGANZA","IRA"]
+        ],
+        "tip":"Gn 2,15 `Yavé tomó, pués, al hombre y lo puso en el jardín del Edén para que lo cultivara y lo cuidara.`\n\nSb 9,1 `Dios de nuestros padres y Señor de la misericordia que con tu palabra hicicste todas las cosas; con tu sabiduría formaste al hombre, para que dominase sobre tus criaturas, y para que rigiese el mundo con santidad y justicia y lo gobernase con rectitud de corazón.`\n\nGn 4,5 `A Yavé le agradó Abel y su ofrenda, mientras que le desagradó Caín y la suya. Caín entonces se enojo mucho y su rostro se descompuso.`\n\nGn 4,23 `Dijo, pues, Lamec a sus mujeres Ada y Sella: 'Escúchenme ustedes, mujeres de Lamec, pongan atención a mis palabras: yo he muerto a un hombre por la herida que me hizo y a un muchacho po un moretón que recibí. Si Cain ha de ser vengado siete veces, Lamec ha de serlo setenta y siete veces.'`",
+        "reflect":"> ¿Te es fácil cumplir con tus responsabilidades o te da pereza?\n\n> Cuando a un compañero (de trabajo, familia, etc.) le ha ido bien y a vos no, ¿te has desanimadpo? ¿te ha dado envidia?\n\n> Cuando alguien te hace daño, ¿buscás justicia por tus propios medios?, ¿cómo te sentís si el agresor sale impune?"
+    },
+  {
+    "type": "multiple-choice",
+    "image": "images/adan-y-eva.webp", 
+    "questionText": "San Pablo le dice a los romanos: Rm 5,18 `... así como la falta de uno solo causó la condenación de todos, también el acto de justicia de uno solo producirá para todos los hombres la justificación que conduce a la Vida. Y de la misma manera que por la desobediencia de un solo hombre, todos se convirtieron en pecadores, también por la obediencia de uno solo, todos se convertirán en justos.`\n\n¿A quién se está refiriendo como responsable de la condenación de todos?",
+    "answerOptions": [
+      { "answerText": "Adán", "isCorrect": true },
+      { "answerText": "Caín", "isCorrect": false },
+      { "answerText": "Eva", "isCorrect": false },
+      { "answerText": "Lamec", "isCorrect": false },
+      { "answerText": "Satanás", "isCorrect": false }
+    ],
+    "tip":"(CIC 388) En esta carta de Pablo, la iglesia encuentra la clave interpretativa del pecado original, basándose en la gracia salvadora que solo Cristo trae a todos los hombres.",
+    "reflect":"> ¿Has vivido una experiencia de grupo donde la mala acción de uno perjudicó al resto?\n\n| ¿Te parece justo que 'la falta de uno solo causó la condenación de todos'?\n\n> ¿Te resulta natural que la buena acción de uno amerite la salvación de todos?\n¿Se te ocurre algún juego de equipo donde la acción de uno lleva al resto a la gloria?"
+  },    
+  {
+    "type": "multiple-choice",
+    "image": "images/adan-y-eva.webp", 
+    "questionText": "¿Cuál facultad humana ejercieron Adán y Eva al desobedecer a Dios?",
+    "answerOptions": [
+      { "answerText": "Capacidad de amar", "isCorrect": false },
+      { "answerText": "Capacidad de elegir", "isCorrect": true },
+      { "answerText": "Capacidad de trabajar", "isCorrect": false },
+      { "answerText": "Capacidad de pensar", "isCorrect": false }
+    ],
+    "tip":"(CIC 390) La Revelación nos da la certeza de fe de que toda la historia humana está marcada por el pecado original libremente cometido por nuestros primeros padres.",
+    "reflect":"¿Hay alguna decisión en tu vida de la cual te arrepentis profundamente? ¿Has pensado por qué lo hiciste? ¿Fue ignorancia, rebeldía, mala educación, mala influencia?"
+  },
+        {
+    "type": "multiple-choice",
+    "image": "images/adan-y-eva.webp", 
+    "questionText": "¿Cuál es el sacramento que borra la culpa heredada del pecado original?",
+    "answerOptions": [
+      { "answerText": "Bautismo", "isCorrect": true },
+      { "answerText": "Comunión", "isCorrect": false },
+      { "answerText": "Confirmación", "isCorrect": false },
+      { "answerText": "Matrimonio", "isCorrect": false },
+      { "answerText": "Orden Sagrado", "isCorrect": false },
+      { "answerText": "Unción de los enfermos", "isCorrect": false },
+      { "answerText": "Reconciliación/Confesión", "isCorrect": false }
+    ],
+    "tip":"Este sacramento hay que hacerlo una sola vez. Un error cada vez más común es que al cambiarse de Iglesia cristiana, (e.g. de ser un fiel de la Iglesia católica a participar de una Iglesia evangélica), se repite este sacramento.",
+    "reflect":"¿Te resulta natural pensar que uno hereda los efectos de los pecados de nuestros ancestros?"
+  },
+
+        {
+      "type": "true-false",
+      "image": "images/adan-y-eva.webp", 
+      "questionText": "Después de un bautismo, el bautizado es un santo, i.e. si muere podrá ver a Dios.",
+      "correctAnswer": true,
+        "tip":"(CIC 978) El santo Bautismo que nos purifica es tan pleno y tan completo el perdón que recibimos, que no nos queda absolutamenta nada por borrar.\n\n(CIC 1028) \n\n",
+      "reflect":"¿Realmente crees en que la gracia de Dios borra toda culpa?\n\n¿Aprovechás el sacramento de la reconciliación?"
+    },
+    {
+    "type": "multiple-choice",
+    "image": "images/adan-y-eva.webp",     
+    "questionText": "¿Cuales son los efectos del pecado original?",
+    "answerOptions": [
+      { "answerText": "Alejar al Hombre del arbol de la vida (celestial)", "isCorrect": true },
+      { "answerText": "El Hombre es abandonado por Dios", "isCorrect":  false },
+      { "answerText": "Inclinar al Hombre hacia el pecado (concupiscencia)", "isCorrect": true },
+      { "answerText": "Introducir pudor a la vida del Hombre", "isCorrect":  true },
+      { "answerText": "Introducir sufrimiento/muerte a la vida del Hombre", "isCorrect":  true  }
+    ],
+    "tip":"Cuando nos referimos al Hombre, nos referimos a todos los seres humanos.\n\nGn 3:22 : `No vaya a ser que ahora extienda su mano, tome también del árbol de la vida, coma y viva para siempre. Entonces expulsó al hombre del jardín.`\n\nSb 19,22 `Por todos los medios, Señor, tu has engrandecido y glorificado a tu pueblo, y no has dejado de asistirlo en todo tiempo y lugar`\n\n(CIC 405) Rm 7:20 : `cuando hago lo que no quiero, no soy yo quien lo hace, sino el pecado que reside en mí.`\n\nGn 3:10 : `tuve miedo porque estaba desnudo. Por eso me escondí`.\n\nGn 2,17 Dios dijo: `el día que comas de él, morirás`.\n\nSb 2,23 `Pero Dios creó al hombre para que no pereciera, y lo hizo inmortal igual que él; por envidia del diablo entró la muerte en el mundo, y los que se pusieron de su lado padecerán.`",
+    "reflect":"CIC 389 nos enseña que la doctrina del pecado original es importante para reconocer que TODOS los seres humanos necesitan ser salvados; por ende necesitan reconocerlo a Jesús.\n\n¿Rezás por aquellos seres queridos que no reconocen a Jesús como EL único salvador?"
+    },
+         {
+      "type": "true-false",
+    "image": "images/adan-y-eva.webp",       
+      "questionText": "La redención de Cristo, luego de la parusía, lleva al Hombre al mismo estado original del Edén.",
+      "correctAnswer": false,
+        "tip":"Dios es evolución, de manera que permite que los males resulten en un mayor bien.\n\nRm 5,20 `Donde abundó el pecado, sobreabundó la gracia.`\n\n (CIC 412) Ante la pregunta ¿por qué Dios no impidió que el primer hombre pecara? San León Magno responde: 'La gracia inefable de Cristo nos ha dado bienes mejores que los que nos quitó la envidia del demonio' (Sermones, 73,4: PL 54, 396)",
+      "reflect":"¿Has tenido una experiencia desagradable/dolorosa que te ha fortalecido o ayudado a madurar?"
+    }
+    ]
+ }

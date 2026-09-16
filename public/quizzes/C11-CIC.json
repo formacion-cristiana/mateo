@@ -1,0 +1,131 @@
+{
+  "id": "C11",
+  "title": "El Hombre es capaz de Dios",
+  "date":"03/09/2025",
+  "comment":"La fe es la repuesta del hombre a Dios que se revela y se entrega a él.",
+  "questions": [
+   {
+      "type": "matching",
+      "image": "images/", 
+      "questionText": "Formular tres preguntas vinculadas a las virtudes teologales cristianas y asociar cada una con un momento temporal característico.\n\n",
+      "columns": ["Pregunta", "Virtud CRISTIANA", "Tiempo"],
+      "correctAnswer": [
+        ["¿Cuál es ","la FE?","viene del pasado"],
+        ["¿Cómo vivimos","la CARIDAD?","se vive en el presente"],
+        ["¿Dónde está","la ESPERANZA?","esta futuro"]
+      ],
+      "tip":"Si bien las tres virtudes se viven en el presente, hay una que en relación a los cristianos, que nos viene del pasado -i.e. nos ha sido transmitida por la tradición-. Hay otra que siempres tiene puesta la mirada en el futuro.     Aquello que se vive en el presente, se refiere a la ayuda a los demás, que la necesitan hoy."
+    },   {
+      "type": "matching",
+      "image": "images/", 
+      "questionText": "EL CATECISMO esta dividido en cuatro partes que podemos asociar a las tres virtudes teologales\n\n",
+      "columns": ["Virtud", "Catecismo", "Significado"],
+      "correctAnswer": [
+        ["¿Cuál es la FE?","CREDO","tradición"],
+        ["¿Cómo vivimos el AMOR?","DERECHOS Y DEBERES","gracia y ley"],
+        ["¿Dónde está la ESPERANZA?","ORACIÓN","cielo"]
+      ],
+      "tip":""
+    },
+        {
+      "type": "true-false",
+           "image": "", 
+      "questionText": "EL DESEO DE DIOS\n\nEl Hombre es un ser religioso, i.e. que está en su naturaleza buscar a Dios.",
+      "correctAnswer": true,
+      "tip":"Hch 17,26-28",
+      "reflect":"¿Sabías que religión significar re-ligarse?, i.e. volver a unir algo que se separó: el Hombre y Dios."
+    },
+  {
+    "type": "multiple-choice",
+    "questionText": "EL DESEO DE DIOS\n\n(CIC 29-30) La unión íntima y vital con Dios puede ser olvidada, desconocida e incluso rechazada por el hombre debido:",
+    "answerOptions": [
+      { "answerText": "a que Dios se cansa y cesa de llamar al Hombre.", "isCorrect": false },
+      { "answerText": "a que Dios nos creó libres para que nos independicemos de El.", "isCorrect": false },
+      { "answerText": "a los afanes del mundo y de las riquezas.", "isCorrect": true },
+      { "answerText": "al mal ejemplo de los creyentes.", "isCorrect": true },
+      { "answerText": "al miedo del pecador (quien sabe que obra mal).", "isCorrect": true }
+    ]
+  },
+    {
+    "type": "multiple-choice",
+    "questionText": "EL CONOCIMIENTO DE DIOS\n\n(CIC 31-34) Seleccione 'pruebas' visibles de la existencia de Dios (primeras vias de acceso)",
+    "answerOptions": [
+      { "answerText": "La bondad y el amor en el Hombre (persona humana)", "isCorrect": true },
+      { "answerText": "El mal ejemplo de los creyentes.", "isCorrect": false },
+      { "answerText": "El miedo del pecador (quien sabe que obra mal).", "isCorrect": false },
+      { "answerText": "El orden y la belleza en el Mundo/Cosmos", "isCorrect": true }
+          ],
+    "tip":"Al decir pruebas, no nos referimos a pruebas científicas sino a argumentos convergentes y convincentes que despiertan la intuición del hombre de buena voluntad.\n\nRm 1,19-20\n\nSan Agustín, Sermones 241,2:PL 38, 1134 `Interroga a la belleza de la tierra ... sujeta a cambio, ¿quién las ha hecho sino la Suma Belleza, no sujeta a cambio?`\n\nSb 13,5 `pues de la grandeza y hermosura de las criaturas se llega, por analogía, a contemplar a su Autor`."
+  },
+  {
+    "type": "multiple-choice",
+    "questionText": "EL CONOCIMIENTO DE DIOS\n\n(CIC 38-41) Seleccione las afirmaciones verdaderas acerca del conocimiento de Dios.",
+    "answerOptions": [
+      { "answerText": "Todas las criaturas poseen un cierta semejanza con Dios.", "isCorrect": true },
+      { "answerText": "El Hombre como ser racional, no necesita ser iluminado por Dios mediante revelaciones para conocer verdades religiosas y morales.", "isCorrect": false },
+      { "answerText": "La santa Iglesia como madre, se encarga de dar a conocer revelaciones de Dios con una certeza firme y sin mezcla de error.", "isCorrect": true }
+          ],
+    "tip":""
+  },
+     {
+        "type": "matching",
+                   "image": "images/adan-y-eva.webp", 
+        "questionText": "Unir los nombres con su etimología hebrea/griega y su significado bíblico:\n\n",
+            "columns": ["Nombre", "prefijo", "Significado"],
+        "correctAnswer": [
+            ["Parábola","para- := paralelo","paralelo a lo lanzado"],
+            ["Símbolo","sim- := unión","une lo lanzado con quien lo lanzó"],
+          ["Diablo","di(a)- := separar/atravesar","divisor - el que se atraviesa y separa lo lanzado"]
+        ],
+        "tip":"CIC 2851: el diablo es el que atraviesa en los designios de Dios.\n\nPalabra viene de parábola. Otras palabras con el sufijo bola: catabólico, anabólico",
+        "reflect":"¿Sabías que los prefijos DI/DIS/DIA pueden indicar separación, división o atravesar? Se puede pensar en algo que atraviesa otra cosa y lo separa.\n\nDIAspora: separación de un pueblo, e.g. el pueblo judío en su exilio a Babilonia.\n\nDISpersar: separar y esparcir algo, e.g. lo ocurrido en Babel.\n\nDIfamar:hablar falsamente de alguien, separando su fama de su realidad. Al aplicarlo a Dios se acerca a la BLASfemia.n\nDIScordia: cuando dos corazones están separados por lo que no hay acuerdo. Dios nos llama a la CONcordia, i.e. hermanar corazones (Mt 5,24)\n\nDISculpa: separar la culpa de uno mediante la confesión.\n\nDIScernir/DIStinguir: separación de conceptos. Los Católicos le pedimos al Espíritu Santo el don del Consejo para obtener discernimiento de lo que acontece y tomar decisiones guiados por El.\n\n"
+      },
+
+            {
+        "type": "matching",
+            "image": "",
+        "questionText": "Unir los pecados escondidos y explícitos para cada categoría presentada en los evangelios:",
+        "columns": ["Categoría","Pecado escondido (blanco)","Pecado explícito (negro)"],
+        "correctAnswer": [
+          ["Animales","Lobo con piel de oveja","Serpiente"],
+          ["Personalidades","Hipócrita","Ávaro"],
+          ["Símbolos","Sepulcro blanqueado","Arbol de frutos malos"],
+          ["Grupos","Fariseos/Saduceos ","Paganos/Publicanos"],
+          ["Ciudades","Jerusalén, Corazaín, Betsaida, Cafarnaún","Sodoma y Gomorra; Tiro y Sidón"],
+          ["Reyes","Rey de Israel","Rey de Babilonia y de Tiro"]   
+        ],
+        "_comment": "",
+        "tip":"Animales: Mt 7,15; Mt 23,33;\n\nPersonalidades: Mt 23; Lc 12,16-19;\n\nSímbolos: Mt 23,27-32; Mt 7,17-20\n\nGrupos: Mt 23\n\nCiudades: Mt 23,37; Mt 11,21; Mt 10,15;\n\nReyes: Ez 28,2;12; Is 14,13.",
+         "reflect":""
+      },
+      {
+        "type": "matching",
+            "image": "",
+        "questionText": "",
+        "columns": ["Persona","Pecado","Don"],
+        "correctAnswer": [
+          ["Capataz","Desconfianza en el arquitecto","Capacidad de trabajar"],
+          ["Enamorado","Infidelidad a su amado","Capacidad de amar"],
+          ["Profesor","Mentir a su alumno","Capacidad de conocer"]
+        ],
+        "_comment": "",
+        "tip":"Cuando la mentira es acerca de la verdad de Dios se llama blasfemia.",
+         "reflect":""
+      }
+      ,
+      {
+        "type": "matching",
+            "image": "",
+        "questionText": "",
+        "columns": ["Ministerio Bautismal","Cualidad ministerial","Pecado","Pecado"],
+        "correctAnswer": [
+          ["Rey","Hijo de Dios","Desconfianza en la providencia de Dios","Falta de fe"],
+          ["Sacerdote", "Enamorado de Dios","Infidelidad a Dios","Idolatría"],
+          ["Profeta", "Mensajero de Dios","Mentir sobre la Palabra de Dios","Blasfemia"]
+        ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+      }
+  ]
+}

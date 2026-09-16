@@ -1,0 +1,132 @@
+{
+  "id": "C04",
+  "title": "[II] Poder-Placer-Poseer",
+    "date":"05/08/2025",
+      "comment":"Necesidades del Hombre, ¿satisfechas por Dios o el dinero?",
+  "questions": [
+          {
+    "type": "true-false",
+    "image": "images/dios-y-dinero.jpg", 
+    "questionText": "Jesús dijo:\n\n`No se puede servir a Dios y al Dinero`",
+    "correctAnswer": true,
+        "_comment": "",
+        "tip":"Mt 6,24 `Nadie puede servir a dos señores, porque aborrecerá a uno y amará al otro, o bien, se interesará por el primero y menospreciará al segundo.`",
+         "reflect":"¿Cómo es tu relación con el dinero?\n\n¿Por qué te parece que Jesús compara a Dios con el dinero?"
+  },  {
+    "type": "true-false",
+        "image": "images/dios-y-dinero.jpg", 
+    "questionText": "Tanto Dios como el dinero pueden satisfacer las necesidades que el Hombre tiene de `PODER`, `PLACER`, y `POSEER`.",
+    "correctAnswer": true,
+        "_comment": "",
+        "tip":"Una necesidad de poder puede ser tener ganas de mandar a otra persona (decirle lo que tiene que hacer).\n\nUna necesidad de placer puede ser tener ganas de degustar una comida (algo rico) o mirar un paisaje (algo bello).\n\nUna necesidad de poseer puede ser tener ganas de tener una ropa, o un hogar propio.\n\nMt 6,25 `Por eso les digo: No se inquieten por su vida, pensando qué van a comer, ni por su cuerpo, pensando con qué se van a vestir. ¿No vale acaso más la vida que la comida y el cuerpo más que el vestido? Miren los pájaros del cielo: ellos no siembran ni cosechan, ni acumulan en graneros, y sin embargo, el Padre que está en el cielo los alimenta. ¿No valen ustedes acaso más que ellos?`",
+         "reflect":""
+  },
+            {
+    "type": "multiple-choice",
+              "image": "images/cierva.webp", 
+    "questionText": "Sal 42,2 `Como la cierva sedienta busca las corrientes de agua, así mi alma suspira por ti, mi Dios. Mi alma tiene sed de Dios, del Dios viviente: ¿Cuándo iré a contemplar el rostro de Dios?`\n\n¿Cuál necesidad expresa el salmista?:",
+    "answerOptions": [
+      { "answerText": "PODER", "isCorrect": false },
+      { "answerText": "PLACER", "isCorrect": true },
+      { "answerText": "POSEER", "isCorrect": false }
+      ],
+        "_comment": "",
+        "tip":"Cuando tenés sed, ¿querés quedarte con alguna posesión? o ¿querés, aunque sea por un ratito, sentir bienestar?\n\n¿Te imaginás ver el rostro de Dios? Escuchá esta canción: [La luz de tu mirada](https://www.youtube.com/watch?v=nmzEa_OTzlE)\n\nJesús le responde al salmista:\n\nJn 7,37 `Jesús, poniéndose de pie, exclamó: «El que tenga sed, venga a mí; y beba el que cree en mí». Como dice la Escritura: 'De su seno brotarán manantiales de agua viva'. El se refería al Espíritu que debían recibir los que creyeran en él. Porque el Espíritu no había sido dado todavía, ya que Jesús aún no había sido glorificado.`\n\nSi te interesa el tema podés buscar alguna ORACIÓN AL SANTÍSIMO CRISTO DE LA SED.",
+        "reflect":"¿Has pensado alguna vez que Dios tiene sed de vos?\n\nEsta realidad, basada en los siguientes versículos a inspirado a la Madre Teresa de Calculta a ser la servidora de los pobres entre los pobres.\n\nJn 19,28 `sabiendo que ya todo estaba cumplido, y para que la Escritura se cumpliera hasta el final, Jesús dijo: Tengo sed.`\n\nMt 25,35;40 `tuve sed, y me dieron de beber;...¿Cúando?... Y el Rey les responderá: 'Les aseguro que cada vez que lo hicieron con el más pequeño de mis hermanos, lo hicieron conmigo'.`\n\nMt 10,42 `Les aseguro que cualquiera que dé a beber, aunque sólo sea un vaso de agua fresca, a uno de estos pequeños por ser mi discípulo, no quedará sin recompensa».`"
+      },
+  {
+    "type": "multiple-choice",          
+    "image": "images/bienaventuranzas.jpg", 
+    "questionText": "¿Cuál necesidad es satisfecha en las siguientes bienaventuranzas?\n\nMt 5,3 `Dichosos los que tienen alma de pobres, porque a ellos les pertenece el Reino de los Cielos.`\n\nMt 5,4 `Dichosos los pacientes, porque recibirán la tierra en herencia.`\n\nMt 5,10 `Dichosos los que son perseguidos por practicar la justicia, porque a ellos les pertenece el Reino de los Cielos.`",
+    "answerOptions": [
+      { "answerText": "PODER", "isCorrect": false },
+      { "answerText": "PLACER", "isCorrect": false },
+      { "answerText": "POSEER", "isCorrect": true }
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+  },
+  {
+    "type": "multiple-choice",          "image": "images/bienaventuranzas.jpg", 
+    "questionText": "¿Cuál necesidad es satisfecha en las siguientes bienaventuranzas?\n\nMt 5,5 `Dichosos los afligidos, porque serán consolados.`\n\nMt 5,6 `Dichosos los que tienen hambre y sed de justicia, porque serán saciados.`\n\nMt 5,8 `Dichosos los que tienen el corazón puro, porque verán a Dios.`",
+    "answerOptions": [
+      { "answerText": "PODER", "isCorrect": false },
+      { "answerText": "PLACER", "isCorrect": true },
+      { "answerText": "POSEER", "isCorrect": false }
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+      },
+        {
+    "type": "multiple-choice",
+    "image": "images/cierva.webp", 
+    "questionText": "Sal 42,2 `Como la cierva sedienta busca las corrientes de agua, así mi alma suspira por ti, mi Dios. Mi alma tiene sed de Dios, del Dios viviente: ¿Cuándo iré a contemplar el rostro de Dios?`\n\nA partir de las bienaventuranzas presentadas en la pregunta anterior, que se le puede responder al salmista:",
+    "answerOptions": [
+      { "answerText": "Cuando te aflijas.", "isCorrect": false },
+      { "answerText": "Cuando tengas hambre y sed de justicia.", "isCorrect": false },
+      { "answerText": "Cuando tengas el corazón puro.", "isCorrect": true }
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+      },
+         {
+        "type": "matching",
+          "image": "images/cruz-paloma-vida.jpg", 
+        "questionText": "Asociar a cada necesidad del Hombre un gran regalo que Dios Hijo, como Salvador, hace a la humanidad. Asociarlos también a su función característica.",
+          "columns": ["Necesidad humana","Don divino","Función"],
+        "correctAnswer": [
+          ["Poder","La Cruz ☦","para salvarnos de la muerte"],
+          ["Poseer", "La Vida Nueva 🎂","para adoptarnos como hijos"],
+          ["Placer","La Paz 🕊","para esperar la parusía"]
+        ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+    },
+    {
+        "type": "matching",
+          "image": "images/familia-cristiana.jpg", 
+        "questionText": "Asociar a cada necesidad del Hombre una concesión que Dios, como sumo Bien, hace naturalmente a las familias (dirigiendo dichas necesidades):",
+          "columns": ["Necesidades","Concesiones Familiares", "Concepto"],
+        "correctAnswer": [
+          ["Poder","Autoridad","decidir el Bien"],
+          ["Poseer","Herencia","ceder Bienes"],
+          ["Placer","Felicidad","sentirse Bien"]
+        ],
+        "_comment": "",
+        "tip":"",
+         "reflect":"Cuando eras joven, ¿desafiabas a la autoridad familiar?\n\n¿Ha habido disputa por la distribućión de la herencia en tu familia?\n\n¿Te imaginás un mundo sin herencia?\n\n¿Has encontrado en tu familia un lugar de descanso, alegría, bienestar? Si no lo has encontrado, ¿te gustaría?"
+    },
+        {
+        "type": "matching",
+          "image": "images/pentecostes.jpeg", 
+        "questionText": "Asociar a cada necesidad del Hombre una concesión que Dios Espíritu, como sumo Don, hace particularmente a los cristianos (trayendo el Reino de los Cielos a la Tierra):",
+          "columns": ["Necesidades", "Conseciones Cristianas","Ejemplos"],
+        "correctAnswer": [
+          ["Poder","Ministerios", "Rey-Profeta-Sacerdote"],
+          ["Poseer","Dones", "Fortaleza-Sabiduria-Piedad"],
+          ["Placer","Frutos", "Magnanimidad-Continencia-Gozo"]
+        ],
+        "_comment": "",
+        "tip":"Otros dones del Espíritu Santo son: Consejo, Ciencia, Entendimiento y Temor de Dios (Is 11,2)\n\n(CIC 1832) Los frutos del Espíritu son perfecciones que forma en nosotros el Espíritu Santo como primicias de la gloria eterna. La tradición de la Iglesia enumera doce, además de los 3 de la tabla: “caridad, paz, paciencia, bondad, benignidad, mansedumbre, fidelidad, modestia, castidad” (Ga 5,22-23, vulg.).",
+         "reflect":"¿Con cuál ministerio te caracterizás? ¿Con que frecuencia lo ejercés?\n\n¿Cuál don necesitas para mejorar tu vida hoy?\n\nAl convivir en una comunidad, ¿cuál Fruto disfrutas?"
+    },
+        {
+        "type": "matching",
+          "image": "images/cuaresma.png", 
+        "questionText": "Asociar a cada necesidad del Hombre prácticas espirituales que la Iglesia Católica infunde para favorecer que las necesidades del Hombre sean satisfechas por Dios y no por el Mundo:",
+          "columns": ["Necesidades", "Consejos Evangélicos","Consejos Cuaresmales"],
+        "correctAnswer": [
+          ["Poder","Obediencia", "Oración"],
+          ["Poseer","Pobreza", "Limosna"],
+          ["Placer","Castidad", "Ayuno"]
+        ],
+        "_comment": "",
+        "tip":"Los `consejos evangélicos` -obediencia, pobreza y castidad- suelen ser votos de quienes se consagran a una vida religiosa\n\nLos `consejos cuaresmales` -oración, limosna y ayuno- son prácticas previas a la Pascua.\n\n1Sm 15,22 `¿Quiere el Señor holocaustos y sacrificios o quiere que se obedezca su voz? La obediencia vale más que el sacrificio; la docilidad, más que la grasa de carneros.`",
+         "reflect":"Si durante un tiempo decidieras realizar alguna de estas prácticas para desarrollar tu espiritualidad con Dios,\n\n¿Cuál consejo evangélico eligirías?\n\n¿Cuál consejo cuaresmal eligirías?"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "C10",
+  "title": "Símbolo vs. Significado",
+  "date":"17/09/2025",
+  "comment":"Jesús enseñaba en parábolas.",
+  "questions": [
+                  {
+        "type": "matching",
+         "image": "images/adan-y-eva.webp", 
+        "questionText": "Asociar ",
+          "columns": ["Tierra", "No Tierra", "Ministerio"],
+        "correctAnswer": [
+          ["lo humano (humus)", "lo celestial", "recursos del reino de Dios"],
+          ["firme", "mar caótico",""],
+          ["nación/país","","región natal de identificación personal"],
+          ["planeta","estrella","esfera habitable por el hombre"]
+        ],
+        "tip":"",
+        "reflect":""
+    },                  {
+        "type": "matching",
+         "image": "images/adan-y-eva.webp", 
+        "questionText": "Asociar ",
+          "columns": ["Libre", "No Libre", "Ministerio"],
+        "correctAnswer": [
+          ["irrestricto", "administrado", "recursos del reino de Dios"],
+          ["público", "privado","relación con Dios"],
+          ["opcional","obligado","expresión de la Palabra de Dios"]
+        ],
+        "tip":"",
+        "reflect":""
+    },
+    {
+        "type": "matching",
+         "image": "images/adan-y-eva.webp", 
+        "questionText": "Asociar ",
+          "columns": ["Capital", "No Libre", "Ministerio"],
+        "correctAnswer": [
+          ["Ciudad", "administrado", "recursos del reino de Dios"],
+          ["Pecado", "privado","relación con Dios"],
+          ["Bienes","obligado","expresión de la Palabra de Dios"],
+          ["Cabeza","decapitar",""]
+        ],
+        "tip":"",
+        "reflect":""
+    }
+  ]
+}

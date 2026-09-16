@@ -1,0 +1,138 @@
+/* styles/PrintableQuiz.css */
+
+.quiz-container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 1rem;
+  color: black;
+}
+
+.export-button {
+  margin-bottom: 1rem;
+}
+
+.pdf-wrapper {
+  position: relative; /* relative parent for absolute child */
+  width: 104%;
+  min-height: 100vh; /* optional: full screen height */
+  margin-top:63vh;
+}
+
+.pdf-content {
+  position: absolute;
+  top: 2rem;       /* distance from top of viewport */
+  left: 80%;       /* start at center */
+  transform: translateX(-50%) translateX(-35mm); 
+  /* first -50% centers the div, second -50mm shifts it further left */
+  
+  font-family: Arial, sans-serif;
+  font-size: 12pt;
+  line-height: 1.3;
+  color: #000;
+  width: 190mm;       /* fixed PDF width */
+  min-height: 297mm;  /* A4 height */
+  padding: 10mm;
+  box-sizing: border-box;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+
+.page-header {
+  text-align: right;
+  font-size: 10pt;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.25rem;
+}
+
+.quiz-title {
+  font-size: 18pt;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.question-block {
+  margin-bottom: 2rem;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #ccc;
+padding-top: 0.5rem;       /* space from top of page */
+}
+
+
+.question-title {
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+
+.item-box {
+  border: 1px solid #000;
+  padding: 0.5rem;
+  border-radius: 4px;
+  display: inline-block;
+  width: fit-content;
+  max-width: 100%;
+  white-space: nowrap;
+  box-sizing: border-box;
+}
+
+.flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.match-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.5rem;
+  table-layout: fixed;
+}
+
+.match-td {
+  border: 1px solid #666;
+  padding: 6px 4px; /* increased padding for thicker rows */
+  min-height: 30px;  /* ensures row height is thicker */
+  vertical-align: middle;
+  text-align: center;
+  font-size: 10pt;
+  white-space: normal; /* allow text to wrap */
+  word-break: break-word; /* break long words if needed */
+}
+
+.match-th {
+  border: 1px solid #666;
+  padding: 6px 4px; /* match header thickness to rows */
+  font-weight: bold;
+  font-size: 10pt;
+  white-space: normal; /* allow wrapping in header cells */
+  word-break: break-word;
+}
+
+
+/* Add this at the bottom of your PrintableQuiz.css */
+.printable-quiz-wrapper {
+  page-break-before: always; /* Forces a new page before each quiz */
+  break-before: page; /* Modern browsers */
+}
+/* Apply a break before every quiz except the first */
+.printable-quiz-wrapper:not(:first-of-type) {
+  page-break-before: always; /* Older browsers */
+  break-before: page; /* Modern browsers */
+}
+
+.printable-quiz-wrapper {
+  width: 180mm;
+  min-height: 297mm;
+  padding: 15mm;
+  box-sizing: border-box;
+  background-color: white;
+  page-break-before: always;
+  break-before: page;
+  margin: 0 auto; /* centers horizontally */
+
+}

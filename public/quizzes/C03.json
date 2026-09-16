@@ -1,0 +1,148 @@
+{
+  "id": "C03",
+  "title": "[I] Poder-Placer-Poseer",
+    "date":"02/08/2025",
+      "comment":"Tentaciones que nos alejan de la voluntad de Dios.",
+  "questions": [
+              {
+        "type": "matching",
+          "image": "images/tentaciones-de-jesus.jpg", 
+        "questionText": "Asociar a cada tentación que Jesús sufre en el desierto una categoría y un pecado capital:",
+          "columns": ["Tentación de Jesús", "Categoría de la tentación", "Pecado Capital"],
+        "correctAnswer": [
+          ["👑 mandar a los ángeles", "PODER ", "SOBERBIA"],
+          ["🥖 saciar el hambre", "PLACER","GULA"],
+          ["🌎 recibir tierras", "POSEER","AVARICIA"]
+        ],
+        "_comment": "",
+        "tip":"Mt 4,2-3 `Después de ayunar cuarenta días ... sintió hambre. Y el tentador... le dijo: «Si tú eres Hijo de Dios, manda que estas piedras se conviertan en panes».`\n\nMt 4,5-6 `Lo puso en la parte más alta del Templo, diciéndole: «Si tú eres Hijo de Dios, tírate abajo, porque está escrito: \"Dios dará órdenes a sus ángeles, y ellos te llevarán en sus manos para que tu pie no tropiece con ninguna piedra\"».`\n\nMt 4,8-9 `El demonio lo llevó luego a una montaña muy alta; desde allí le hizo ver todos los reinos del mundo con todo su esplendor, y le dijo: «Te daré todo esto, si te postras para adorarme».`",
+         "reflect":"\n\n* ¿Cuál de estos tres pecados capitales aparece en tu vida más seguido?\n\n¿Ganas de mandar mucho, de comer mucho, o de tener mucho?"
+    },
+        {
+      "type": "true-false",
+                   "image": "images/tentaciones-de-jesus.jpg", 
+      "questionText": "El tentador NO puede citar La Palabra de Dios para engañarnos/tentarnos.",
+      "correctAnswer": false,
+        "_comment": "",
+        "tip":"Gn 3,1 `La serpiente era el más astuto de todos los animales del campo`",
+         "reflect":"¿Has escuchado que alguién cita un versículo de la Biblia para justificar una mala acción?"
+    },
+            {
+      "type": "true-false",
+                   "image": "images/tentaciones-de-jesus.jpg", 
+      "questionText": "Jesús resiste a las tentaciones rezando La Palabra de Dios.",
+      "correctAnswer": true,
+        "_comment": "",
+        "tip":"Aquí La Palabra de Dios se refiere a citas del antiguo testamento.",
+         "reflect":"¿Reconocés momentos en que sos tentado?\n\nEn esos momentos, ¿recurrís a La Palabra de Dios?, e.g. la oración del Padre Nuestro"
+    },
+      {
+    "type": "multiple-choice",
+    "questionText": "¿En cuál(es) tentación(es) o pecado(s) cae el hombre de la siguiente parabola?\n\nLc 12,16-19 `Había un hombre rico, cuyas tierras habían producido mucho,y se preguntaba a sí mismo \"¿Qué voy a hacer? No tengo dónde guardar mi cosecha\". Después pensó: \"Voy a hacer esto: demoleré mis graneros, CONSTRUIRÉ OTROS MÁS GRANDES Y AMONTONARÉ allí todo mi trigo y mis bienes, y diré a mi alma: Alma mía, tienes bienes almacenados para muchos años; descansa, COME, BEBE y date buena vida\".`",
+    "answerOptions": [
+      { "answerText": "PODER", "isCorrect": false },
+      { "answerText": "PLACER", "isCorrect": true },
+      { "answerText": "POSEER", "isCorrect": true },
+      { "answerText": "SOBERBIA", "isCorrect": false },
+      { "answerText": "GULA", "isCorrect": true },
+      { "answerText": "AVARICIA", "isCorrect": true }
+      ],
+        "_comment": "",
+        "tip":"Ya teniendo suficiente quiere amontonar para darse buena vida; en contraste con producir para generar trabajo o preveer una crisis. Su nuevo objetivo es descansar, comer y beber.",
+         "reflect":"¿Encontrás alguna semejanza entre el pecado de gula y pereza?\n\n¿Que harías si fueras rico y tus tierras produjeron mucho?, (i.e. si no tuvieras que trabajar)\n\n1Co 10,31 `Sea que ustedes coman, sea que beban, o cualquier cosa que hagan, háganlo todo para gloria de Dios.`"
+      },
+      {
+    "type": "multiple-choice",
+        "image": "images/palestina-arabia-israel.png", 
+    "questionText": "¿En cuál tentación o pecado cae el Rey de ISRAEL?\n\n2Sm 11,2-4 `Vio a una mujer que se estaba bañando. La mujer era muy hermosa... Le dijeron: «¡(Es) la mujer de Urías!». Entonces David mandó unos mensajeros para que se la trajeran. La mujer vino, y David se acostó con ella.`",
+    "answerOptions": [
+      { "answerText": "PODER", "isCorrect": false },
+      { "answerText": "PLACER", "isCorrect": true },
+      { "answerText": "POSEER", "isCorrect": false },
+      { "answerText": "SOBERBIA", "isCorrect": false },
+      { "answerText": "GULA", "isCorrect": false },
+      { "answerText": "AVARICIA", "isCorrect": false }
+      ],
+        "_comment": "",
+        "tip":"Esta mujer será la madre de Salomón:\n\nMt 1,6 `David fue padre de Salomón, y la madre de este fue la que había sido mujer de Urías.`",
+         "reflect":"¿Encontrás alguna semejanza entre el pecado de gula y lujuria?"
+      },
+      {
+    "type": "multiple-choice",
+    "image": "images/palestina-arabia-babilonia.png", 
+    "questionText": "¿En cuál tentación o pecado cae el Rey de BABILONIA acusado por el profeta Isaías?\n\nIs 14,13-14 `tú que decías en tu corazón: «Subiré a los cielos; por encima de las estrellas de Dios erigiré mi trono. Me sentaré en la montaña de la asamblea divina, ... seré semejante al Altísimo!».`",
+    "answerOptions": [
+      { "answerText": "PODER", "isCorrect": true },
+      { "answerText": "PLACER", "isCorrect": false },
+      { "answerText": "POSEER", "isCorrect": false },
+      { "answerText": "SOBERBIA", "isCorrect": true },
+      { "answerText": "GULA", "isCorrect": false },
+      { "answerText": "AVARICIA", "isCorrect": false }
+      ],
+        "_comment": "",
+        "tip":"Quiere construir su trono en lo más alto, quiere ser semejante a Dios, quiere más de lo que le corresponde, pués se olvida que los tronos los erige Dios.",
+         "reflect":"Gn 3:4 `La serpiente dijo a la mujer: «... cuando ustedes coman de ese árbol, se les abrirán los ojos y SERÁN COMO DIOSES, conocedores del bien y del mal».\n\n¿Reconocés como la serpiente quiere tentar a Eva con la misma tentación que tiene el Rey de Babilonia? `seré semajante al Altísimo`.\n\n¿Has vivido situaciones donde alguien que hace el mal quiere llevar a otro a hacer el mismo mal?"
+      },    
+
+        {
+    "type": "multiple-choice",
+    "image": "images/palestina-arabia-tiro.png", 
+    "questionText": "¿En cuál tentación o pecado cae el Príncipe de TIRO acusado por Ezequiel?\n\nEz 28,2 `Tu corazón se llenó de ARROGANCIA y dijiste: «Yo soy un dios; estoy sentado en un trono divino, en el corazón de los mares». ¡Tú, que eres un hombre y no un dios, te has considerado igual a un dios! `",
+    "answerOptions": [
+      { "answerText": "PODER", "isCorrect": true },
+      { "answerText": "PLACER", "isCorrect": false },
+      { "answerText": "POSEER", "isCorrect": false },
+      { "answerText": "SOBERBIA", "isCorrect": true },
+      { "answerText": "GULA", "isCorrect": false },
+      { "answerText": "AVARICIA", "isCorrect": false }
+      ],
+        "_comment": "",
+        "tip":"Un trono es símbolo de ...\n\nUn arrogante exagera su importancia y sus habilidades para sentirse superior a los demás.",
+         "reflect":"¿Quién se ha considerado igual a un dios?\n\nTiro era una ciudad en la costa del mar Mediterraneo. Recordando el simbolismo del mar en la historia de la salvación, ¿se te ocurre por qué el Príncipe de TIRO tiene su trono en el corazón de los mares?"
+      },
+              {
+    "type": "multiple-choice",
+    "image": "images/palestina-arabia-tiro.png", 
+    "questionText": "¿Con cuál pecado capital se puede asociar la acusación que el profeta Ezequiel le hace al Rey de TIRO?\n\nEz 28,12-18 : `Estabas en Edén, el Jardín de Dios, recubierto de piedras preciosas ... a fuerza de tanto traficar, tu interior se llenó de violencia y caíste en el pecado. Por eso yo te expulso como algo profanado lejos de la montaña de Dios; te hago desaparecer, querubín protector, de entre las piedras de fuego. Tu corazón se llenó de ARROGANCIA a causa de tu hermosura; corrompiste tu sabiduría a causa de tu esplendor. Pero yo te arrojé por tierra... Te reduciré a ceniza.`",
+    "answerOptions": [
+      { "answerText": "SOBERBIA", "isCorrect": true },
+      { "answerText": "GULA", "isCorrect": false },
+      { "answerText": "AVARICIA", "isCorrect": false }
+      ],
+        "_comment": "",
+        "tip":"¿Sabés lo que es un querubín? Recordá Gn 3,24 `Y después de expulsar al hombre, puso al oriente del jardín de Edén a los querubines y la llama de la espada zigzagueante, para custodiar el acceso al árbol de la vida.`\n\n",
+         "reflect":"¿A quién te parece que que hace referencia la historia del Rey de Tiro?"
+      },
+           {
+    "type": "multiple-choice",
+       "image": "images/adan-y-eva.webp", 
+    "questionText": "¿Quién fue la primer creatura que pecó? (pecar: elegir alejarse de Dios)",
+    "answerOptions": [
+      { "answerText": "Un animal", "isCorrect": false },
+      { "answerText": "Un ángel", "isCorrect": true },
+      { "answerText": "Una mujer", "isCorrect": false },
+      { "answerText": "Un varón", "isCorrect": false }
+      ],
+        "_comment": "",
+        "tip":"Considerá que hay una historia antes de lo sucedido en Gn 3 (La expulsión del Edén).\n\nPro 16,5.18 `Yavé odia el corazón altanero, que seguramente no quedará sin castigo...Antes de la ruina hubo orgullo; antes de la caida, espíritu altanero.`\n\n¿De que caida habla el profeta?\n\n¿Quién tuvo espíritu altanero antes de la caida?",
+         "reflect":"¿Te resulta intuitivo pensar que hay ángeles buenos y ángeles malos?\n\nLa biblia mensiona solo el nombre de tres ángeles buenos: Gabriel, Micael y Rafael. Se los recuerda el 29 de septiembre."
+      },
+            {
+    "type": "multiple-choice",
+    "image": "images/leviatan.jpeg", 
+    "questionText": "Los ángeles que pecaron contra Dios (el maligno y sus seguidores) se los identifica con:",
+    "answerOptions": [
+      { "answerText": "El dragón del mar -Leviatán-  (Is 27,1)", "isCorrect": true },
+      { "answerText": "El león de Judá (Ap 5,5)", "isCorrect": false },
+      { "answerText": "El lobo con piel de oveja (Mt 7,15)", "isCorrect": true },
+      { "answerText": "El rey de Babilonia (Is 14,12)", "isCorrect": true },
+      { "answerText": "El rey de Israel (2Sm 11,2)", "isCorrect": false },
+      { "answerText": "El rey de Tiro (Ez 28,12)", "isCorrect": true },
+      { "answerText": "La serpiente del Edén (Gn 3,1)", "isCorrect": true }
+    ],
+        "_comment": "",
+        "tip":"Estas imágenes o personajes pueden referirse no solo a ángeles sino también a personas decididas a obrar el mal.\n\nA partir de estos pasajes la tradición entiende parte de la historia entre Dios y el ángel caido Lucifer/Satanás (y sus seguidores)\n\nA ellos hace referencia Pablo en la carta los Efecios:\n\nEf 6,12 `Porque nuestra lucha no es contra enemigos de carne y sangre, sino contra los Principados y Potestades, contra los Soberanos de este mundo de tinieblas, contra los espíritus del mal que habitan en el espacio.`",
+         "reflect":"¿Conocés personas que deliberadamente obran el mal?\n\n¿Cómo te vinculás con ellos?\n\n¿Cómo entendés la existencia del mal?\n\nPodés leer la parábola de la cizaña y el trigo: Mt 13,24-30;36-43"
+      }
+  ]
+}

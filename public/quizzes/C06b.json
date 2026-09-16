@@ -1,0 +1,127 @@
+      {
+        "type": "matching",
+        "questionText": "",
+            "columns": [ "Ministerio", "Relación con Dios","Persona"],
+        "correctAnswer": [
+          ["Betel","Arca de la Alianza","Ábraham"],
+          ["Jerusalén","Templo de Dios","David"],
+          ["Belén", "Cuerpo de Dios","Jesús"]
+          ],
+        "_comment": "",
+        "tip":""
+      },
+                      {
+        "type": "matching",
+        "questionText": "Unir a cada ",
+            "columns": [ "Ministerio", "Relación con Dios","Persona"],
+        "correctAnswer": [
+          ["Betel","Arca de la Alianza","Robo del Arca por los filisteos","7 años después David lleva el Arca a Betel"],
+          ["Jerusalén","1er Templo de Dios por Salomón","400 años después se destruye el Templo por los babilónicos","70 años después se reconstruye el Templo"],
+          ["Belén", "Cuerpo Humano de Jesús","Muerte de Jesús por los judíos","Cuerpo Glorioso de Jesús (resucitado)"]
+          ],
+        "_comment": "",
+        "tip":""
+      },                       
+
+                         {
+        "type": "matching",
+        "image": "images/palestina.png",
+        "questionText": "Unir a cada palabra vinculada a Jesús con su significado:",
+          "columns": ["Nombre", "Significado","Evento"],
+        "correctAnswer": [
+          ["EmanuEL", "Dios con nosotros",""],
+          ["Cristo", "Ungido en Griego",""],
+          ["Mesías", "Ungido en hebreo",""],
+          ["JeSHUA","Salvador",""],
+          [""]
+        ],
+        "_comment": "Jordán descender -          Judea, tierra de Judá",
+      }
+ ,      {
+        "type": "matching",
+        "questionText": "Trabajo ofrendado a Dios (sacro-oficio) en el Génesis. (Gn 3:19; 4:3-4)",
+            "columns": ["Personaje", "Signo", "Ofrenda"],
+        "correctAnswer": [
+          ["Adán","🥖","Pan"],
+          ["Abel", "🐑","Animales"],
+          ["Caín","🍇","Cosecha"]
+        ],
+        "_comment": "",
+        "tip":"Cuando un trabajo/oficio se dedica a Dios, se hace sagrado y se convierte en sacrificio (sacro-oficio).\n\nEste es una de las actividades que realiza el ministerio sacerdotal i.e. sacralizar el trabajo ofreciéndoselo a Dios.\n\n'sacer' en latín significa `sagrado`. 'dote' podemos vincularlo con `don` o regalo ofrecido.",
+        "reflect":"¿Le ofreces tus alimentos a Dios? Cada vez que ofreces los alimentos a Dios en acción de gracias y bendecís a los comensales ejercés tu ministerio sacerdotal."
+      },
+   ,
+      {
+    "type": "matching",
+    "image": "images/timeline-historia-de-la-humanidad.png", 
+    "questionText": "Luego de haber superado las tentaciones del maligno -i.e. sin haber pecado- Jesús nos exhorta a convertirnos (Mt 4:17), santificarnos (Mt 5:45) y para salvarnos -ganar una vida celestial- seguirlo y perder nuestra vida terrenal a causa de el (Mt 16:25).\n\nPreviene sobre el juicio en la parusía (Mt 16:27) aunque también nos recuerda su compasión (Mt 18:23-27)\n\nAsociar a la Creación, Salvación y Juicio de Dios, eventos que le siguen temporalmente:",
+    "tip":"Conversión, santidad y salvación\n\nMt 4:17 `Jesús comenzó a proclamar: «Conviértanse, porque el Reino de los Cielos está cerca».`\n\nMt 5:45-48 `yo les digo: Amen a sus enemigos, rueguen por sus perseguidores; así serán hijos del Padre que está en el cielo, porque él hace salir el sol sobre malos y buenos y hace caer la lluvia sobre justos e injustos. Si ustedes aman solamente a quienes los aman, ¿qué recompensa merecen? ¿No hacen lo mismo los publicanos? Y si saludan solamente a sus hermanos, ¿qué hacen de extraordinario? ¿No hacen lo mismo los paganos? Por lo tanto, sean perfectos como es perfecto el Padre que está en el cielo.`\n\nMt 16:24-27 `Entonces Jesús dijo a sus discípulos: «El que quiera venir detrás de mí, que renuncie a sí mismo, que cargue con su cruz y me siga. Porque él que quiera salvar su vida, la perderá; y el que pierda su vida a causa de mí, la encontrará. ¿De qué le servirá al hombre ganar el mundo entero si pierde su vida? ¿Y qué podrá dar el hombre a cambio de su vida? Porque el Hijo del hombre vendrá en la gloria de su Padre, rodeado de sus ángeles, y entonces pagará a cada uno de acuerdo con sus obras».`\n\n---\n\nRey compasivo\n\nMt 18:23-27 `el Reino de los Cielos se parece a un rey que quiso arreglar las cuentas con sus servidores. Comenzada la tarea, le presentaron a uno que debía diez mil talentos. Como no podía pagar, el rey mandó que fuera vendido junto con su mujer, sus hijos y todo lo que tenía, para saldar la deuda. El servidor se arrojó a sus pies, diciéndole: \"Señor, dame un plazo y te pagaré todo\". El rey se compadeció, lo dejó ir y, además, le perdonó la deuda.`",
+    "reflect":"Para los judíos, la conversión y santidad era un llamado previo a la salvación, pués Jesús aún no había vencido a la muerte. Para los cristianos la conversión y santidad vienen después de la salvación.\n\n* ¿Vivís como salvado?\n\nAunque ya estamos redimidos por la pascua de Jesús, hasta el día del juicio nuestras obras tienen consecuencias. Si para entonces no hemos logrado un balance positivo con nuestras obras -como el servidor que debía 10mil talentos en Mt 18:23- debemos confiarnos a la infinita misericordia de Dios.\n\n* ¿Vivís la misericordia de Dios en el sacramento de la reconciliación?\n\nSi tenemos un balance positivo debemos buscar la santidad que nos propone Jesús, llendo más allá de la Ley Mosaica -de ahí la dificultad de seguirlo a Jesús- e.g. poner la otra mejilla (Mt 5:39) o amar a nuestros enemigos (Mt 5:44)\n\n* ¿Cuál propuesta de Jesús te resulta muy dificil?",
+    "columns": ["Evento 1", "Eventos 2","Evento 3"],
+    "correctAnswer": [
+          ["Creación 🗣️🌎 (α)","Tentación del maligno 🐍", "Pecado del Hombre 🍎"],
+          ["Salvación ☦ (τ)","Conversión de pecador a justo ⛓️‍💥","Santificación del justo 👼"],
+          ["Juicio Final ⚖️ (ω)", "Arrepentimiento del hijo pecador 🙏","Abrazo del padre 🫂"]
+        ]
+    },
+
+
+                    {
+        "type": "matching",
+        "image": "images/dios-y-dinero.jpg", 
+        "questionText": "Mt 16:21 `Jesús comenzó a anunciar a sus discípulos que debía ir a Jerusalén, y sufrir mucho de parte de los ancianos, de los sumos sacerdotes y de los escribas; que debía ser condenado a muerte y resucitar al tercer día.`",
+            "columns": ["Ministerio","Funciones","","Judíos"],
+        "correctAnswer": [
+          ["Rey", "administrar los bienes","Honores al entrar en Jerusalén", "Anciano"],
+          ["Sacerdote","recuperar el bien perdido","Recupera la Vida eterna al resucitar","Caifás"],
+          ["Profetas", "crear bienes con esfuerzo","Sufrimiento al ser condenado","Escriba"]
+        ]
+      },
+                {
+        "type": "matching",
+        "questionText": "Unir cada nombre con su raiz etimológica (hebrea) y significado:",
+            "columns": ["Funcionario", "Función", "Poder","Objetivo Evangélico"],
+        "correctAnswer": [
+          ["Gobernante", "Conducir/Guiar","Ejecutivo","Progresar mediante la Paz"],
+          ["Legislador","Convertir/Rectificar","Legislativo", "Educar mediante la Palabra"],
+          ["Juez","Salvar/Condenar", "Judicial","Ajusticiar mediante la Misericordia"]
+        ]
+      },
+
+    {
+        "type": "matching",
+        "questionText": "Mt 6:24 `Nadie puede servir a dos señores, porque aborrecerá a uno y amará al otro, o bien, se interesará por el primero y menospreciará al segundo. No se puede servir a DIOS y al DINERO.`\n\nMt 6:20-21 `No acumulen tesoros en la TIERRA. * Acumulen, en cambio, tesoros en el CIELO, donde no hay polilla ni herrumbre que los consuma, ni ladrones que perforen y roben. Allí donde esté tu TESORO, estará también tu CORAZÓN.`\n\nMt 16:23 `«¡Retírate, ve detrás de mí, Satanás! Tú eres para mí un obstáculo, porque tus PENSAMIENTOS no son los de DIOS, sino los de los HOMBRES».`\n\n",
+            "columns": ["Ministerio Bautismal","Función Ministerial","Objeto Ministerial","Críticas al mundo"],
+        "correctAnswer": [
+          ["Rey", "administrar/organizar","servicio a Dios","servicio al Dinero 💰"],
+          ["Sacerdote","sentir/desear 💗","tesoros en el Cielo","tesoros en la Tierra 🌎"],
+          ["Profeta","señalar/enseñar","palabra de Dios 📖","pensamiento de los Hombres"]
+        ],
+        "reflect":"Los gobernántes cristianos deben servir a Dios"
+      }, 
+              {
+    "type": "multiple-choice",
+    "questionText": "¿Quienes vivieron un destierro?, i.e. tuvieron que exiliarse/refugiarse en otro país",
+    "answerOptions": [
+      { "answerText": "Ábraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": true },
+      { "answerText": "Salomón", "isCorrect": true },
+      { "answerText": "Jesús", "isCorrect": true }
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+  },  {
+    "type": "multiple-choice",
+    "questionText": "Al volver de Babilonia, Israel se convirtió en un pueblo liderado por ...",
+    "answerOptions": [
+      { "answerText": "Reyes", "isCorrect": false },
+      { "answerText": "Profetas", "isCorrect": false },
+      { "answerText": "Sacerdotes", "isCorrect": true},
+      { "answerText": "Romanos", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"El rey Persa (Ciro) les permite reconstruir el templo. ",
+         "reflect":""
+  }, 

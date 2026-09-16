@@ -1,0 +1,159 @@
+{
+  "id": "C02",
+  "title": "Genealogía y Dones",
+  "date":"29/07/2025",
+  "comment":"Abraham-Israel-David-Salomón-Jesús", 
+  "questions": [
+        {
+    "type": "multiple-choice",
+    "questionText": "Alrededor del año 1900 a.C., ¿a quién le prometió Dios que le daría a el y a sus descendientes la tierra de Canaán?  (tierra Santa/Prometida)",
+      "image": "images/palestina-arabia.png",
+      "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": true },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": false },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+  },
+    {
+    "type": "multiple-choice",
+    "image": "images/palestina-arabia.png",
+      "questionText": "La Tierra Prometida por Dios al pueblo de Israel:",
+        "answerOptions": [
+      { "answerText": "cuenta con la superficie más baja del planeta (por debajo del nivel del mar)", "isCorrect": true },
+      { "answerText": "estaba deshabitada, por lo que les resulto sencillo instalarse.", "isCorrect": false },
+      { "answerText": "es en su mayoría desértica", "isCorrect": true },
+      { "answerText": "incluye Egipto y Babilonia", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"Dt 32,8 `Cuando el Altísimo dio una herencia a cada nación, cuando distribuyó a los hombres, él fijó las fronteras de los pueblos según el número de los hijos de Dios. Pero la parte del Señor es su pueblo. la porción de su herencia es Jacob. Lo encontró en una tierra desierta. en la soledad rugiente de la estepa: lo rodeó y lo cuidó. lo protegió como a la pupila de sus ojos.`",
+         "reflect":""
+    },
+    {
+    "type": "multiple-choice",
+    "questionText": "Las 12 tribus de Israel llevan el nombre de 10 hijos y 2 nietos de:",
+      "image": "images/12tribus.png",
+      "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": true },
+      { "answerText": "David", "isCorrect": false },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"Dios le cambió el nombre luego de un enfrentamiento con un Angel.\n\nLos dos nietos son hijos de José: Efraím y Manasés.",
+         "reflect":"Levi también fue hijo, pero no recibió tierra en herencia por que a su descendencia se le encomendó el ministerio sacerdotal. ¿Le encontrás sentido?"
+  },
+        {
+    "type": "multiple-choice",
+    "questionText": "Completar el versículo\n\nGn 22,1 `Dios puso a prueba a _________. Le dijo: Toma a tu hijo, a tu único, al que amas... ve a la región de Moria y ofrécelo allí en holocausto'.`\n\n Unos mil años más tarde, en el monte Moria se construirá el Templo de Israel.",
+    "image": "images/jerusalem-moria.png",
+    "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": true },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": false },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+  },
+          {
+    "type": "multiple-choice",
+    "questionText": "Completar el versículo en donde justo antes del sacrificio el Ángel de Dios dice a Abraham:\n\nGn 22,12 `'No le hagas nada que ahora sé que tienes _________ de Dios, ya que no me has negado tu único hijo.'`",
+    "image": "images/jerusalem-moria-abram.png",
+        "answerOptions": [
+      { "answerText": "Fe", "isCorrect": false },
+      { "answerText": "Fortaleza", "isCorrect": false },
+      { "answerText": "Sabiduría", "isCorrect": false },
+      { "answerText": "Salvación", "isCorrect": false },
+      { "answerText": "Temor", "isCorrect": true },
+      { "answerText": "Piedad", "isCorrect": false }
+      
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+  },          {
+    "type": "multiple-choice",
+    "image": "images/jerusalem-moria-abram.png",
+    "questionText": "Por su gran devoción a Dios, ¿Quién comienza con los preparativos para construir el primer Templo de Jerusalén? (será construido por su hijo en la región de Moria)",
+    "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": true },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": false }
+    ],
+        "_comment": "Él anhelaba construir una casa para poner en ella el arca, pero Dios postergó su edificación hasta el reinado de Salomón",
+        "tip":"En el templo se realizaban sacrificios, ceremonias religiosas y se guardaban los objetos sagrados. Este templo será destruido en el destierro a Babilonia, prefigura de la pascua de Jesús.",
+         "reflect":"¿Sentís que los templos cristianos son casa de Dios?\n\nGn 22,16-19 `Jacob se despertó de su sueño y exclamó» «¡Verdaderamente el Señor está en este lugar, y yo no lo sabía!». Y lleno de temor, añadió: «¡Qué temible es este lugar! Es nada menos que la casa de Dios y la puerta del cielo». A la madrugada del día siguiente, Jacob tomó la piedra que la había servido de almohada, la erigió como piedra conmemorativa, y derramó aceite sobre ella. Y a ese lugar, que antes se llamaba luz, lo llamó Betel, que significa «Casa de Dios».`"
+  },
+            {
+    "type": "multiple-choice",
+    "questionText": "Completar el versículo: \"La reina de Sabá oyó hablar de la fama de _________, y fue a ponerlo a prueba, proponiéndole unos enigmas. Llegó a Jerusalén con un séquito imponente, con camellos cargados de perfumes, de gran cantidad de oro y de piedras preciosas.\" (2Cro 9,1) ",
+      "image": "images/palestina-arabia.png",
+      "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": false },
+      { "answerText": "Salomón", "isCorrect": true },
+      { "answerText": "Jesús", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"Se lo conoce porque logró resolver con astucia el conflicto entre dos mujeres que reclamaban a un mismo hijo (1Reyes 3,16-28).",
+         "reflect":"Prb 3,13-18 `¡Feliz el hombre que encontró la sabiduría y el que obtiene la inteligencia, porque ganarla vale más que la plata y ella rinde más que el oro fino! Es más preciosa que las perlas y nada apetecible se le puede igualar. En su mano derecha hay larga vida, y en su izquierda, riqueza y gloria. Sus caminos son caminos deliciosos y todos sus senderos son apacibles. Es un árbol de vida para los que se aferran a ella y los que la retienen son felices.`\n\n¿Conocés a alguien que no aprecie la sabiduría y la inteligencia?"
+  },
+              {
+        "type": "matching",
+        "questionText": "Unir cada nombre con su raiz etimológica (hebrea) y significado:",
+
+          "columns": ["Nombre","Etimología", "Significado"],
+        "correctAnswer": [
+          ["ABraham","'AB' → 'padre'", "padre de multitudes"],
+          ["IsraEL","'EL' → 'Dios'", "el que lucha con/contra Dios"],
+          ["DaviD","DÔWD → amar", "amado/querido"],
+          ["SALOMón","'SHALOM'→'paz'", "pacífico"],
+          ["JeSHUA","'SHUA'→'salvación'", "Dios salva"]
+        ],
+        "_comment": "",
+        "tip":"Mc 14,36 `(Jesús) decía: «Abba –Padre– todo te es posible: aleja de mí este cáliz, pero que no se haga mi voluntad, sino la tuya».`\n\nGn 32,29 `29 El (ángel) añadió: «En adelante no te llamarás Jacob, sino Israel, porque has luchado con Dios y con los hombres, y has vencido».`\n\nEl ángel le dice a José: Mt 1,21 `Ella dará a luz un hijo, a quien pondrás el nombre de Jesús, porque él salvará a su Pueblo de todos sus pecados».`",
+         "reflect":""
+      },
+              {
+        "type": "matching",
+        "questionText": "Unir a cada persona con el principal Don divino (regalo de Dios) que representa:",
+          "columns": ["Persona", "Don"],
+        "correctAnswer": [
+          ["Abraham", "Fé"],
+          ["Israel", "Fortaleza"],
+          ["David", "Piedad"],
+          ["Salomón", "Sabiduría"],
+          ["Jesús", "Salvación"]
+        ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+      },
+                    {
+        "type": "matching",
+        "questionText": "Unir a cada Don divino (regalo de Dios) con una cualidad que representa:",
+          "columns": ["Don", "Cualidad"],
+        "correctAnswer": [
+          ["Fé", "Confianza"],
+          ["Fortaleza", "Perseverancia"],
+          ["Piedad", "Devoción"],
+          ["Sabiduría", "Sabor"],
+          ["Salvación", "Sacrificio"]
+        ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+      }
+  ]
+}

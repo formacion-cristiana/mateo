@@ -1,0 +1,128 @@
+{
+  "id": "C10",
+  "title": "PADRE NUESTRO\n\n(Mt 6,9)",
+  "date":"20/09/2025",
+  "comment":"La oración que Jesús nos enseñó.",
+  "questions": [
+        {
+      "type": "true-false",
+      "image": "images/adan-y-eva.webp", 
+      "questionText": "Adán es considerado creatura de Dios, no hijo de Dios.",
+      "correctAnswer": true,
+      "tip":"Gn 2,7 `El Señor Dios modeló al hombre con arcilla del suelo y sopló en su nariz un aliento de vida. Así el hombre se convirtió en un ser viviente. El Señor Dios plantó un jardín en Edén, al oriente, y puso allí al hombre que había formado.`\n\nGn 3,19 `Ganarás el pan con el sudor de tu frente, hasta que vuelvas a la tierra, de donde fuiste sacado. ¡Porque eres polvo y al polvo volverás!`",
+      "reflect":"¿Qué diferencia notas entre ser creatura o hijo?\n\n¿Te da lo mismo ser cretura o hijo de Dios?\n\nLeer los siguientes versículos considerando que ser creatura de Dios es algo natural (el primer hombre), ser hijo de Dios es algo espiritual (el segundo hombre):\n\n1Co 15,39 `No todos los cuerpos son idénticos: una es la carne de los hombres, otra la de los animales, otra la de las aves y otra la de los peces. Hay cuerpos celestiales y cuerpos terrestres, y cada uno tiene su propio resplandor: uno es el resplandor del sol, otro el de la luna y otro el de las estrellas, y aun las estrellas difieren unas de otras por su resplandor. Lo mismo pasa con la resurrección de los muertos: se siembran cuerpos corruptibles y resucitarán incorruptibles; se siembran cuerpos humillados y resucitarán gloriosos; se siembran cuerpos débiles y resucitarán llenos de fuerza; se siembran cuerpos puramente naturales y resucitarán cuerpos espirituales. Porque hay un cuerpo puramente natural y hay también un cuerpo espiritual. Esto es lo que dice la Escritura: El primer hombre, Adán, fue creado como un ser viviente; el último Adán, en cambio, es un ser espiritual que da la Vida. Pero no existió primero lo espiritual sino lo puramente natural; lo espiritual viene después. El primer hombre procede de la tierra y es terrenal; pero el segundo hombre procede del cielo. Los hombres terrenales serán como el hombre terrenal, y los celestiales como el celestial. De la misma manera que hemos sido revestidos de la imagen del hombre terrenal, también lo seremos de la imagen del hombre celestial. Les aseguro, hermanos, que lo puramente humano no puede tener parte en el Reino de Dios, ni la corrupción puede heredar lo que es incorruptible.`"
+    },
+    {
+      "type": "true-false",
+      "image": "images/padre-misericordioso-fondo-blanco.jpeg", 
+      "questionText": "Jesús introdujo el concepto de Dios como padre. Antes de el, el pueblo de Israel solo reconocía a Dios como creador, proveedor y defensor.",
+      "correctAnswer": false,
+    "tip":"Ex 4,22 `le dirás (al Faraón) así habla el Señor: «Israel es mi hijo primogénito. Yo te he dicho que dejes partir a mi pueblo, para que me rinda culto. Pero ya que te niegas a hacerlo, castigaré con la muerte a tu hijo primogénito».`\n\nDt 32,4 `Es un Dios fiel y sin falsedad, justiciero y recto. Pero se comportaron mal con él los que ya no son sus hijos, a causa de su depravación. Esa generación tortuosa y perversa. ¿Así le pagas al Señor, pueblo necio e insensato? ¿Acaso él no es tu padre y tu creador, el que te hizo y te afianzó?`\n\nIs 63,15 `¿Dónde están tus celos y tu valor, tu ternura entrañable y tu compasión? ¡No, no permanezcas insensible! Porque tú eres nuestro padre, porque Abraham no nos conoce ni Israel se acuerda de nosotros. ¡Tú, Señor, eres nuestro padre, «nuestro Redentor» es tu Nombre desde siempre!`\n\nSal 103,13 `Como el padre se compadece de los hijos, se compadece Dios de los que le temen`\n\n",
+    "reflect":"Empezamos la oración con la palabra `PADRE`.\n\n¿Podés recordar los aspectos constructivos de la relación con tu Padre biológico?\n\nGa 4,4 `Dios envió a su Hijo, nacido de una mujer y sujeto a la Ley, para redimir a los que estaban sometidos a la Ley y hacernos HIJOS ADOPTIVOS. Y la prueba de que ustedes son hijos, es que Dios infundió en nuestros corazones el Espíritu de su Hijo, que clama a Dios llamándolo» ¡ABBA!, es decir, ¡PADRE! Así, ya no eres más esclavo, sino HIJO, y por lo tanto, HEREDERO por la gracia de Dios.`\n\n¿Cuál es el acta de adopción de nuestra filiación con Dios?\n\n¿Qué significa para vos ser hijo (adoptivo) de Dios?"
+    },
+    {
+      "type": "true-false",
+      "image": "images/diversidad-mafalda.png",
+      "questionText": "Jesús introdujo el concepto de Dios como padre de los Hombres sin distinción de pueblo o raza.",
+      "correctAnswer": true,
+      "tip":"Mt 12,50 `todo el que hace la voluntad de mi Padre que está en el cielo, ese es mi hermano, mi hermana y mi madre.`",
+      "reflect":"Mt 23,9 `a Nadie en el mundo llamen 'padre', porque no tienen sino uno, el Padre celestial.`\n\nNuestros padres biológicos, padrinos o sacerdotes -i.e. a quienes solemos llamar 'padre'- deberían imprimir en nosotros la imagen de Dios Padre\n\nDios es uno (único) y padre de todos los que hacen su voluntad, por lo que rezamos:\n\n* `PADRE NUESTRO`."
+    },
+    {
+        "type": "matching",
+                   "image": "images/rey-sacerdote-profeta-logos.jpg", 
+        "questionText": "Luego del saludo inicial a Dios Padre, vienen tres afirmaciones donde ensalzamos a Dios, marcados con una acción (verbo) y un objeto divino (sustantivo).\n\nAsociar a cada verbo un objeto y a cada objeto un ministerio. Para esto último responder ¿Quién es el responsable de:\n* invocar a Dios pronunciando su nombre?\n* asemejar su reino al reino de Dios?\n* hacer conocer la voluntad de Dios?",
+          "columns": ["Verbo","Objeto Divino","Ministerio"],
+        "correctAnswer": [
+          ["Santificado", "TU Nombre", "Sacerdote"],
+          ["Venga", "TU Reino","Rey"],
+          ["Hágase","TU Voluntad","Profeta"]
+        ],
+        "tip":"Padre nuestro que estas en el Cielo\n\nSantificado sea TU ______\n\nVenga a nosotros TU ______\n\nHágase TU ______ aquí en la Tierra como en el Cielo",
+        "reflect":"¿Has escuchado a alguien maldecir junto con el nombre de Dios?\n\nEs lo opuesto a lo que Jesús nos llama a hacer con su nombre.\n\n¿De que manera hablás cuando nombrás a Dios? ¿Cómo esta tu corazón al nombrarlo?\n\n---\n\nJuan y Jesús proclamaban: Mt 3,2.17 `El Reino de los Cielos está cerca.`\n\nLe pedimos a Dios que nos envie su Espíritu para hacer crecer su Reino en este mundo.\n\n¿De que manera haces crecer el Reino de Dios?\n\n---\n\nLe pedimos a Dios que nos envie su Espíritu para discernir su voluntad y ser obedientes a ella\n\n¿De que manera reconocés la voluntad de Dios?\n\n¿Le expresas la voluntad de Dios a los demás?"
+    },
+    {
+    "type": "multiple-choice",
+    "image": "images/ihs.jpg",     
+    "questionText": "Seleccionar los distintos nombres de Dios presentados en la Biblia:",
+    "answerOptions": [
+      { "answerText": "babEL", "isCorrect": false },
+      { "answerText": "da ABRAHAM, de ISAAC y de JACOB", "isCorrect": true },
+      { "answerText": "emanuEL", "isCorrect": true },
+      { "answerText": "israEL", "isCorrect": false },
+      { "answerText": "JESÚS - IESUS - YESHUA", "isCorrect": true },
+      { "answerText": "YAHVEH - YO SOY", "isCorrect": true }
+      ],
+    "tip":"En Hebreo se forman nombres compuestos al combinar 'EL' o 'YHWH' con otro término para especificar un atributo de Dios:\n\n`El Shaddai`: El Dios Todopoderoso u omnipotente.\n\n`El Elyon`: El Dios Altísimo, que ocupa la posición suprema.\n\n`El-Roi`: El Dios que me ve.\n\n`El-Olam`: El Dios Eterno.\n\n`YHWH-Sabaoth`: El Señor de los Ejércitos.\n\n`YHWH-Jireh`: El Señor proveerá.\n\n`YHWH-Rapha`: El Señor es el que sana.\n\n`YHWH-Shalom`: El Señor es nuestra paz.\n\n`YHWH-Rohi`:El Señor mi Pastor.\n\nEx 3,13 `Moisés dijo a Dios: «Si me presento ante los israelitas y les digo que el Dios de sus padres me envió a ellos, me preguntarán cual es su nombre. Y entonces, ¿qué les responderé?». Dios dijo a Moisés: «Yo soy el que soy». Luego añadió: «Tú hablarás así a los israelitas: «Yo soy» me envió a ustedes». Y continuó diciendo a Moisés: «Tú hablarás así a los israelitas: El Señor, el Dios de sus padres, el Dios de ______, el Dios de ______ y el Dios de ______, es el que me envía. Este es mi nombre para siempre y así será invocado en todos los tiempos futuros.`\n\nFlp 2,9 `Dios lo exaltó y le dio el Nombre que está sobre todo nombre, para que al nombre de ______, se doble toda rodilla en el cielo, en la tierra y en los abismos, y toda lengua proclame para gloria de Dios Padre: «______ es el Señor».`\n\nMt 1,23 `La Virgen concebirá y dará a luz un hijo a quien pondrán el nombre de ______.`",
+    "reflect":"El Nombre de alguien puede verse como un símbolo que al pronunciarlo invoca a la persona, a todo o parte de lo que es.\n* ¿Cuál nombre de Dios te llega más?, ¿Lo usas?\n* ¿Cómo se dice yo soy en francés?, ¿A que se parece?"
+    },
+    {
+        "type": "matching",
+        "image": "images/rey-sacerdote-profeta-logos.jpg", 
+      "questionText": "VENGA A NOSOTROS TU REINO\n\nEn el capítulo 13 de Mateo, Jesús nos habla del Reino de Dios a través de parábolas.\n\n`El Reino de los Cielos se parece a ... que ... entonces ...`\n\nUnir cada una de las parábolas:",
+          "columns": ["se parece a ...","que ...","y entonces ..."],
+        "correctAnswer": [
+          ["una SEMILLA de mostaza", "un hombre SEMBRÓ en su campo","se convierte en la más grande de toda las hortalizas"],
+          ["un poco de LEVADURA","una mujer MEZCLA con gran cantidad de harina","hasta que fermenta toda la masa"],
+          ["un TESORO escondido en un campo","es ENCONTRADO por un hombre","vende todo y compra el campo"],
+          ["un NEGOCIANTE de perlas","al ENCONTRAR una de gran valor","vendió todo y compra la perla"],
+          ["una RED que se hecha al mar","RECOGE toda clase de peces","se separa lo bueno y se tira lo que no sirve"]
+        ],
+      "tip":"Una SEMILLA debe ser sembrada y con paciencia, calor y agua se convierte en un arbol.\n\nLa LEVADURA debe ser mezclada y con paciencia, calor y agua hace crecer la mezcla.\n\nUn TESORO que los ojos no ven pero que puede ser encontrado; vale la pena entregarlo todo por el.\n\nUn NEGOCIANTE de perlas esta dispuesto a comprar las perlas de gran valor\n\nUna RED de pesca que recoge sin distinción todos los peces que puede; al sacar la red los pescadores separan lo que sirve de lo que no.",
+      "reflect":"¿Quién a sembrado la SEMILLA del Reino en tu vida?\n\nLos pájaros del Cielo que se cobijan en el arbol crecido, ¿a quienes pueden representar?\n\n---\n\n¿Amasás la harina con la LEVADURA del Reino?\n\n¿Qué puede representa la harina y que la levadura?\n\n---\n\n¿Qué aspecto del Reino de los Cielos lo encontrás tan valioso que hoy le dedicás tiempo y dinero para cuidarlo?\n\n---\n\nSi vos sos una perla de gran valor, ¿quién puede ser el negociante?\n\n---\n\n¿Que te parece que puede representar la RED, los PECES y el MAR?"
+    },
+    {
+   "type": "multiple-choice",
+      "questionText": "HÁGASE TU VOLUNTAD\n\n¿Cuál marca de autos significa `Hágase` en latin?",
+    "answerOptions": [
+      { "answerText": "Fiat (Italia)", "isCorrect": true },
+      { "answerText": "Ford (USA)", "isCorrect": false },
+      { "answerText": "Kia (Korea)", "isCorrect": false },
+      { "answerText": "Peugeot (Francia)", "isCorrect": false },      
+      { "answerText": "Volswagen (Alemania)", "isCorrect": false }
+    ],
+      "tip":"Gn 1,3 `Dios dijo: «HÁGASE la luz». Y la luz existió.`\n\n`María le dijo al Ángel Gabriel: Lc 1,38 `«Yo soy la servidora del Señor, HÁGASE en mí lo que has dicho»`\n\nEn Getsemaní, antes de su pasión, Jesús `cayó con el rostro en tierra, orando así: «Padre mío, si es posible, que pase lejos de mí este cáliz, pero no se HAGA mi VOLUNTAD, sino la tuya».` (Mt 26,39)",
+      "reflect":"¿Le has dicho a Dios alguna de las siguientes frases?:\n* HÁGASE en mi TU VOLUNTAD\n* que no se HAGA mi VOLUNTAD, sino la tuya\n\n¿Cuál es la voluntad de Dios?\n¿Les resultó sencillo a María y a Jesús hacer la voluntad de Dios?\n\n* Cada vez que veas un auto con esa marca acordate de decirle a Dios: `¡HÁGASE!`"
+    },
+        {
+        "type": "matching",
+        "image": "images/rey-sacerdote-profeta-logos.jpg", 
+        "questionText": "Asociar a cada ministro con el pan que debe administrar y con el órgano físico que 'digiere' dicho pan.",
+          "columns": ["Ministro","Pan","Organo"],
+        "correctAnswer": [
+          ["Rey", "de trigo", "estomago"],
+          ["Sacerdote", "Eucarístico","corazón"],
+          ["Profeta","de la Palabra","cerebro"]
+        ],
+        "tip":"El rey se encarga de satisfacer las necesidades materiales.\n\nEl sacerdote se encarga de satisfacer las necesidades anímicas (poder descansar mediante la fe en el altar de Dios).\n\nEl profeta expresa la voluntad de Dios que suele ser acogida solo por aquellos que quieren oir.",
+        "reflect":"Somos hijos de Dios -en crecimiento y en movimiento-, por lo que debemos alimentarnos diariamente del Pan que Dios nos da; puede ser el pan de trigo, el Eucaríastico o de la Palabra."
+    },
+    {
+    "type": "multiple-choice",
+    "questionText": "PERDONA NUESTRAS OFENSAS COMO NOSOTROS PERDONAMOS A LOS QUE NOS OFENDEN\n\n¿En cuál(es) sacramentos recibimos el perdón de Dios sin que nosotros tengamos que perdonar a los que nos ofenden?",
+    "answerOptions": [
+      { "answerText": "Bautismo", "isCorrect": true },
+      { "answerText": "Comunión", "isCorrect": false },
+      { "answerText": "Confirmación", "isCorrect": false },
+      { "answerText": "Matrimonio", "isCorrect": false },
+      { "answerText": "Orden Sagrado", "isCorrect": false },
+      { "answerText": "Unción de los enfermos", "isCorrect": false },
+      { "answerText": "Reconciliación/Confesión", "isCorrect": true }
+    ],
+    "tip":"",
+    "reflect":""
+    },
+    {
+      "type": "multiple-choice",
+      "questionText": "LIBRANOS DEL MAL\n\n ¿Cuál es el nombre del Arcangel al que se le reza la siguiente oración:\n\n`San ______ Arcángel, defiéndenos en la batalla. Sé nuestro amparo contra la perversidad y asechanzas del demonio. Reprímale Dios, pedimos suplicantes, y tu Príncipe de la milicia Celestial, arroja al infierno con el divino poder a satanás y a todos los esíritus malignos que andan dispersos por el mundo para la perdición de las almas. Amén`",
+          "answerOptions": [
+      { "answerText": "Gabriel", "isCorrect": false },
+      { "answerText": "Miguel", "isCorrect": true },
+      { "answerText": "Rafael", "isCorrect": false },
+      { "answerText": "Uriel", "isCorrect": false }
+      ],
+      "tip":"Tras una visión, en 1886 el Papa León XIII ordenó que esta oración se rezara al final de cada Misa.",
+      "reflect":"Jn 17,14 `Yo les comuniqué tu palabra, y el mundo los odió porque ellos no son del mundo, como tampoco yo soy del mundo. No te pido que los saques del mundo, sino que los preserves del Maligno`\n\n¿Qué quiere decir 'ser' del mundo? ¿Te consideras alguien del mundo?\n\nMt 5,37 `Cuando ustedes digan «sí», que sea sí, y cuando digan «no», que sea no. Todo lo que se dice de más, viene del Maligno.`\n\n¿Habías pensado que el Maligno nos hace decir palabras que no corresponden?"
+    }
+  ]
+}
