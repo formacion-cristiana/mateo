@@ -128,7 +128,7 @@
               {
         "type": "matching",
         "questionText": "Unir a cada persona con el principal Don divino (regalo de Dios) que representa:",
-          "columns": ["Persona", "Don"],
+          "columns": ["Persona", "Don/Virtud"],
         "correctAnswer": [
           ["Abraham", "Fé"],
           ["Israel", "Fortaleza"],
@@ -137,13 +137,13 @@
           ["Jesús", "Salvación"]
         ],
         "_comment": "",
-        "tip":"",
-         "reflect":""
+        "tip":"A los dones también se los llama virtudes dependiendo del contexto.\n\nAquí estamos usando el don de la piedad como una devoción con fervor del corazón.",
+         "reflect":"Para tu vida, hoy, ¿cuál don elegirías?\n\nPensá en alguién con quien tengas o hayas tenido un conflicto; ¿cuál don le regalarías?\n\nLleva estas peticiones al altar"
       },
                     {
         "type": "matching",
         "questionText": "Unir a cada Don divino (regalo de Dios) con una cualidad que representa:",
-          "columns": ["Don", "Cualidad"],
+          "columns": ["Don/Virtud", "Cualidad"],
         "correctAnswer": [
           ["Fé", "Confianza"],
           ["Fortaleza", "Perseverancia"],
@@ -152,7 +152,7 @@
           ["Salvación", "Sacrificio"]
         ],
         "_comment": "",
-        "tip":"",
+        "tip":"A los dones también se los llama virtudes dependiendo del contexto.",
          "reflect":""
       }
   ]
