@@ -66,7 +66,7 @@
       },
     {
     "type": "multiple-choice",
-    "questionText": "En Mateo 3,2 Juan Bautista plocama:\n\n `\"_________ porque el Reino de los Cielos está cerca.\"`",
+    "questionText": "En Mateo 3,2 Juan Bautista proclama:\n\n `\"_________ porque el Reino de los Cielos está cerca.\"`",
     "answerOptions": [
       { "answerText": "Conviértanse", "isCorrect": true },
       { "answerText": "Límpiense", "isCorrect": false },
