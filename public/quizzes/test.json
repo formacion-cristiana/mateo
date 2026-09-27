@@ -25,17 +25,6 @@ A él se refería el profeta Isaías cuando dijo: "Una voz grita en el desierto:
     "questionText": "Ordenar temporalmente los temas presentados en Mt 1-4:",
     "correctAnswer": ["Genealogía 🇮🇱🫅🕍", "Nacimiento ✨🐫🫏", "Bautismo ↪️👑💦", "Tentaciones en el desierto 🥖🌍🐍","Promulgación del Reino ❤️‍🩹📖🕊"]
     },
-      
-    {
-        "type": "matching",
-        "questionText": "El Ángel del Señor se le apareció en sueños a José en tres ocasiones y le dijo:",
-          "columns": ["Ocasión", "Palabras del Ángel"],
-        "correctAnswer": [
-          ["La concepción virginal", "'José, hijo de David, no temas recibir a María, tu esposa ...'"],
-          ["Al partir los magos", "'Levántate, toma al niño y a su madre, huye a Egipto...'"],
-          ["Al morir el Rey Herodes", "'Levántate, toma al niño y a su madre, y regresa a la tierra de Israel...'"]
-        ]
-      },
       {
     "type": "true-false",
     "questionText": "El evangelio de Juan fue escrito por Juan Bautista",
